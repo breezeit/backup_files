@@ -1,0 +1,106 @@
+// an example to create a new mapping `ctrl-y`
+//mapkey('<Ctrl-y>', 'Show me the money', function() {
+//    Front.showPopup('a well-known phrase uttered by characters in the 1996 film Jerry Maguire (Escape to close).');
+//});
+
+// an example to replace `u` with `?`, click `Default mappings` to see how `u` works.
+//map('?', 'u');
+
+// an example to remove mapkey `Ctrl-i`
+//unmap('<Ctrl-i>');
+
+// click `Save` button to make above settings to take effect.
+// set theme
+
+//默认情况下，按Alt-s可以在当前站点开关Surfingkeys。当Surfingkeys处于关闭状态时，除了热键，其它所有按键映射都停止工作
+settings.theme = '\
+.sk_theme { \
+    background: #fff; \
+    color: #000; \
+} \
+.sk_theme tbody { \
+    color: #000; \
+} \
+.sk_theme input { \
+    color: #000; \
+} \
+.sk_theme .url { \
+    color: #555; \
+} \
+.sk_theme .annotation { \
+    color: #555; \
+} \
+.sk_theme .focused { \
+    background: #f0f0f0; \
+}';
+//remap
+settings.hintAlign = "left";
+Hints.characters = 'asdfqwer';
+map('q', 'E');   //tab left
+map('w', 'R');  //tab right
+map('d', 'x'); //current tab close
+map('u', 'X');//unclose last closed tab
+map('Q', '<<'); //move current tab to left
+map('W', '>>'); //move current tab to rightu
+map('v', 'e'); //scroll page up
+map('h', 'S'); //history back
+map('l', 'D'); //history forward
+mapkey('zz', '收起', 'clickOn("a[action-type=feed_list_media_toSmall]")', 0, /weibo.com/i);
+mapkey('zx', '点开微博上的图片/视频', 'Hints.create("div.media_box img", Hints.dispatchMouseClick)', 0, /weibo.com/i);
+
+mapkey('[[', 'Click on the previous link on current page', function() {
+    var prevLinks = $('a').regex(/((上页|上一页|<<|prev(ious)?)+)/i);
+    if (prevLinks.length) {
+        clickOn(prevLinks);
+    } else {
+        walkPageUrl(-1);
+    }
+});
+mapkey(']]', 'Click on the next link on current page', function() {
+    var nextLinks = $('a').regex(/((下页|下一页|>>|next)+)/i);
+    if (nextLinks.length) {
+        clickOn(nextLinks);
+    } else {
+        walkPageUrl(1);
+    }
+});
+
+mapkey('p', "Open the clipboard's URL in the current tab", function() {
+    Normal.getContentFromClipboard(function(response) {
+        window.location.href = response.data;
+    });
+});
+
+addSearchAliasX('z', '知乎 search', 'https://www.zhihu.com/search?type=question&q=');
+mapkey('oz', '#8知乎 search', function() {Front.openOmnibar({type: "SearchEngine", extra: "z"})});
+
+addSearchAliasX('vb', 'bilibili search', 'http://search.bilibili.com/all?keyword=');
+mapkey('ovb', '#8bilibili search', function() {Front.openOmnibar({type: "SearchEngine", extra: "vb"})});
+
+addSearchAliasX('yt', 'youtube search', 'https://www.youtube.com/results?search_query=');
+mapkey('oyt', '#8youtube search', function() {Front.openOmnibar({type: "SearchEngine", extra: "yt"})});
+
+addSearchAliasX('yk', '优酷 search', 'http://www.soku.com/search_video/q_');
+mapkey('oyk', '#8优酷 search',function() {Front.openOmnibar({type: "SearchEngine", extra: "yk"})});
+
+addSearchAliasX('pw', '微博 search', 'http://s.weibo.com/weibo/');
+mapkey('opw', '#8微博 search', function() {Front.openOmnibar({type: "SearchEngine", extra: "pw"})});
+
+addSearchAliasX('ig', 'img google search', 'https://www.google.com/search?tbm=isch&q=');
+mapkey('oig', '#8img google search', function() {Front.openOmnibar({type: "SearchEngine", extra: "ig"})});
+
+addSearchAliasX('if', 'img giphy search', 'https://giphy.com/search/');
+mapkey('oif', '#8img giphy search', function() {Front.openOmnibar({type: "SearchEngine", extra: "if"})});
+
+addSearchAliasX('ib', 'img 百度 search', 'https://image.baidu.com/search/index?tn=baiduimage&word=');
+mapkey('oib', '#8img 百度 search', function() {Front.openOmnibar({type: "SearchEngine", extra: "ib"})});
+
+addSearchAliasX('ke', 'wiki-en search', 'https://en.wikipedia.org/wiki/');
+mapkey('oke', '#8wiki-en search',function() {Front.openOmnibar({type: "SearchEngine", extra: "ke"})});
+
+addSearchAliasX('kz', 'wiki-zh search', 'https://zh.wikipedia.org/wiki/');
+mapkey('okz', '#8wiki-zh search', function() {Front.openOmnibar({type: "SearchEngine", extra: "kz"})});
+
+//addSearchAliasX('c', 'caniuse search', 'http://caniuse.com/#search=');
+//mapkey('oc', 'caniuse search', 'Front.openOmnibar({type: "SearchEngine", extra: "c"})');
+

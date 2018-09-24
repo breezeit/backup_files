@@ -1,0 +1,77 @@
+{
+  "timeStamp": 1504073967793,
+  "version": "1.13.8",
+  "userSettings": {
+    "advancedUserEnabled": false,
+    "alwaysDetachLogger": false,
+    "autoUpdate": true,
+    "cloudStorageEnabled": false,
+    "collapseBlocked": true,
+    "colorBlindFriendly": false,
+    "contextMenuEnabled": true,
+    "dynamicFilteringEnabled": false,
+    "externalLists": "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt\nhttps://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt",
+    "firewallPaneMinimized": true,
+    "hyperlinkAuditingDisabled": true,
+    "ignoreGenericCosmeticFilters": false,
+    "largeMediaSize": 50,
+    "parseAllABPHideFilters": true,
+    "prefetchingDisabled": true,
+    "requestLogMaxEntries": 1000,
+    "showIconBadge": true,
+    "tooltipsDisabled": false,
+    "webrtcIPAddressHidden": false
+  },
+  "selectedFilterLists": [
+    "CHN-2",
+    "user-filters",
+    "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
+  ],
+  "hiddenSettingsString": "assetFetchTimeout 30\nautoUpdateAssetFetchPeriod 120\nautoUpdatePeriod 7\nignoreRedirectFilters false\nignoreScriptInjectFilters false\nmanualUpdateAssetFetchPeriod 2000\npopupFontSize unset\nsuspendTabsUntilReady false\nuserResourcesLocation unset",
+  "netWhitelist": "about-scheme\nbehind-the-scene\nchrome-extension-scheme\nchrome-scheme\nloopconversation.about-scheme\nmoz-extension-scheme\nopera-scheme\nv.youku.com\nvivaldi-scheme\nwww.inoreader.com",
+  "dynamicFilteringString": "behind-the-scene * 3p-frame noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "",
+  "userFilters": "! https://www.zhihu.com/question/50281730\nwww.zhihu.com##.AdblockBanner\n\n! http://vip.ifkdy.com/?url=http://v.youku.com/v_show/id_XMjc3MjM2NTEwNA==.html?spm=a2h0j.8191423.item_XMjc3MjM2NTEwNA==.A\nvip.ifkdy.com###\\39 1banner\n\n! http://www.panda.tv/\nwww.panda.tv##.room-co-activity-container\n\n! http://my.poco.cn/\nmy.poco.cn###comment\nmy.poco.cn##.edui-faked-video\nmy.poco.cn###header\nphoto.poco.cn##.mainCon\nmy.poco.cn##li> .clearfix.img_list_info > .ext_operate.fr\nmy.poco.cn##.lastphoto_table\nmy.poco.cn##.d_line\nmy.poco.cn##.pb5.clearfix.voteArea\nmy.poco.cn###footer\nmy.poco.cn##.act_detail_info > h2\nmy.poco.cn##.clearfix.lh22:nth-of-type(10)\nmy.poco.cn##.exif\nmy.poco.cn##.word_break.mb10.mt15.font_color_default.content\nmy.poco.cn###J-global-topbar\n\n! http://pp.163.com/pp/\npp.163.com##.pp-footer.footer\npp.163.com##.f-clear.g-mainwraper-cmt.g-mainwraper\npp.163.com##.g-mainwraper-footAuthor.g-mainwraper\npp.163.com##.pp-footer.footer\npp.163.com##img[src=\"http://r1.ph.126.net/photo/image/photo122.gif\"]\n\n! 2017/6/1 下午5:26:26 http://bbs.kafan.cn/forum-214-1.html\nbbs.kafan.cn##.comeing_box:nth-of-type(1) > .bm > .comeing_box_cl\n\n! 2017/6/2 下午2:36:14 https://pan.baidu.com/disk/home#list/path=%2F&vmode=list\npan.baidu.com###pre-scan\n\n! 2017/6/5 下午4:03:58 https://www.taptap.com/app/13620\nwww.taptap.com###bottomBanner\n\n! 2017-6-13 09:36:22 http://bbs.3dmgame.com/forum-2320-1.html\nbbs.3dmgame.com##.pbn.bml.bm\n\n! 2017-6-16 19:05:27 https://tieba.baidu.com/f?kw=%B2%BB%D0%DD%C6%EF%CA%BF&fr=ala0&tpl=5\ntieba.baidu.com###fixed_bar\n\n! 2017-7-20 21:09:02 https://mrcong.com/girlt-2017-06-29-tg-019-45-anh/\n||disqus.com/embed/comments/$subdocument\n\n! 2017-7-20 21:09:29 https://mrcong.com/girlt-2017-06-29-tg-019-45-anh/\nmrcong.com###theme-footer\n\n! 2017/8/1 下午5:22:53 https://www.zhihu.com/\nwww.zhihu.com##.Advert--card\nwww.zhihu.com##[data-za-detail-view-path-is_ad=\"true\"]\n\n! 2017/8/5 下午3:17:13 http://zj.qq.com/a/20170805/014094.htm\nzj.qq.com##iframe[src=\"http://zj.qq.com/zt2017/huayantp8/index.htm\"]\n\nwww.dilidili.wang##.popUp\n\n! 2017/8/19 下午1:09:56 https://baike.baidu.com/item/%E5%A2%9E%E5%80%BC%E7%A8%8E/243746?fr=aladdin\nbaike.baidu.com###side-share\n\n! 2017/8/21 下午2:43:59 http://webtoon.bamtoki.com/%ED%9B%94%EC%B3%90%EB%B3%B4%EA%B8%B0-32.html\nwebtoon.bamtoki.com###banner_right_wing\n\n! 2017/8/21 下午2:44:09 http://webtoon.bamtoki.com/%ED%9B%94%EC%B3%90%EB%B3%B4%EA%B8%B0-32.html\nwebtoon.bamtoki.com###banner_left_wing\n\n! 2017/8/21 下午2:51:22 http://webtoon.bamtoki.com/%ED%8D%BC%ED%8E%99%ED%8A%B8-%ED%95%98%ED%94%84-01.html\nwebtoon.bamtoki.com###banner_top_center\n\n! 2017/8/21 下午2:54:48 http://webtoon.bamtoki.com/%ED%9B%94%EC%B3%90%EB%B3%B4%EA%B8%B0-36.html\nwebtoon.bamtoki.com###banner_mid_center\n",
+  "filterLists": {
+    "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt": {
+      "off": false
+    },
+    "assets/user/filters.txt": {
+      "off": false
+    },
+    "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt": {
+      "off": false
+    },
+    "assets/ublock/filters.txt": {
+      "off": true
+    },
+    "assets/ublock/privacy.txt": {
+      "off": true
+    },
+    "assets/ublock/unbreak.txt": {
+      "off": true
+    },
+    "assets/ublock/badware.txt": {
+      "off": true
+    },
+    "assets/ublock/experimental.txt": {
+      "off": true
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt": {
+      "off": true
+    },
+    "assets/thirdparties/easylist-downloads.adblockplus.org/easyprivacy.txt": {
+      "off": true
+    },
+    "assets/thirdparties/www.malwaredomainlist.com/hostslist/hosts.txt": {
+      "off": true
+    },
+    "assets/thirdparties/mirror1.malwaredomains.com/files/justdomains": {
+      "off": true
+    },
+    "assets/thirdparties/pgl.yoyo.org/as/serverlist": {
+      "off": true
+    }
+  }
+}
