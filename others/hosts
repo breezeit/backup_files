@@ -1,0 +1,46 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+0.0.0.0 www.xmind.net
+0.0.0.0 bandicam.com
+0.0.0.0 ssl.bandicam.com
+0.0.0.0 ssl.bandisoft.com
+0.0.0.0 cert.bandicam.com
+0.0.0.0 cert.bandicam.com
+0.0.0.0 www.bandicam.com
+0.0.0.0 account.jetbrains.com
+0.0.0.0 iristech.co
+0.0.0.0 www.mindjet.com  
+0.0.0.0 mindjet.com  
+0.0.0.0 ipm.corel.com
+
+183.134.11.87 video.mileweb.steampowered.com.8686c.com
+23.2.3.98 steam-chat.com
+118.215.176.59 partner.steamgames.com
+101.66.224.250 broadcast.mileweb.steampowered.com.8686c.com
+104.75.169.91 steamstore-a.akamaihd.net
+104.75.169.91 steamusercontent-a.akamaihd.net
+104.75.169.91 steamcommunity-a.akamaihd.net
+104.75.169.91 steamcdn-a.akamaihd.net
+104.75.169.91 steamuserimages-a.akamaihd.net
+104.75.169.91 cdn.akamai.steamstatic.com
+104.75.169.91 store.akamai.steamstatic.com
+23.210.202.32 cloud-3.steamusercontent.com
+183.134.11.84 cdn.steamstatic.com.8686c.com

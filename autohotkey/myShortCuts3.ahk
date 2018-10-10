@@ -6,15 +6,17 @@ global volStep := 5                   ;音量标量
 global leftWinWidth := 1360           ;左窗口宽度
 global screenWidth := 1920            ;屏幕总宽度
 global rightWinWidth := % screenWidth-leftWinWidth
-global winHeight := 1040              ;窗口高度
+global winHeight := 1047              ;窗口高度
 
 ;快捷键
 hotkey,#F1,runHelpSpy                 ;启动AHK帮助和SPY
 hotkey,#h,helpToolTip                 ;脚本内容帮助显示
-Hotkey,#up,volUp                      ;音量提升
-hotkey,#down,volDown                  ;音量降低
-hotkey,#left,toLeft                   ;靠左
-hotkey,#right,toRight                 ;靠右
+;Hotkey,#up,volUp                      ;音量提升
+;hotkey,#down,volDown                  ;音量降低
+hotkey,#1,toLeft                   ;靠左
+hotkey,#2,toRight                 ;靠右
+;hotkey,#left,toLeft                   ;靠左
+;hotkey,#right,toRight                 ;靠右
 hotkey,#p,beTransparent220            ;鼠标所指窗口透明化220
 hotkey,#i,beTransparent180            ;鼠标所指窗口透明化180
 hotkey,#o,closeTransparent            ;关闭鼠标所指窗口的透明效果
