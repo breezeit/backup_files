@@ -86,14 +86,14 @@ mapkey('oyk', '#8优酷 search',function() {Front.openOmnibar({type: "SearchEngi
 addSearchAliasX('pw', '微博 search', 'http://s.weibo.com/weibo/');
 mapkey('opw', '#8微博 search', function() {Front.openOmnibar({type: "SearchEngine", extra: "pw"})});
 
-addSearchAliasX('ig', 'img google search', 'https://www.google.com/search?tbm=isch&q=');
-mapkey('oig', '#8img google search', function() {Front.openOmnibar({type: "SearchEngine", extra: "ig"})});
+addSearchAliasX('pg', 'img google search', 'https://www.google.com/search?tbm=isch&q=');
+mapkey('opg', '#8img google search', function() {Front.openOmnibar({type: "SearchEngine", extra: "pg"})});
 
-addSearchAliasX('if', 'img giphy search', 'https://giphy.com/search/');
-mapkey('oif', '#8img giphy search', function() {Front.openOmnibar({type: "SearchEngine", extra: "if"})});
+addSearchAliasX('pf', 'img giphy search', 'https://giphy.com/search/');
+mapkey('opf', '#8img giphy search', function() {Front.openOmnibar({type: "SearchEngine", extra: "pf"})});
 
-addSearchAliasX('ib', 'img 百度 search', 'https://image.baidu.com/search/index?tn=baiduimage&word=');
-mapkey('oib', '#8img 百度 search', function() {Front.openOmnibar({type: "SearchEngine", extra: "ib"})});
+addSearchAliasX('mb', 'img 百度 search', 'https://image.baidu.com/search/index?tn=baiduimage&word=');
+mapkey('omb', '#8img 百度 search', function() {Front.openOmnibar({type: "SearchEngine", extra: "mb"})});
 
 addSearchAliasX('ke', 'wiki-en search', 'https://en.wikipedia.org/wiki/');
 mapkey('oke', '#8wiki-en search',function() {Front.openOmnibar({type: "SearchEngine", extra: "ke"})});
@@ -101,6 +101,13 @@ mapkey('oke', '#8wiki-en search',function() {Front.openOmnibar({type: "SearchEng
 addSearchAliasX('kz', 'wiki-zh search', 'https://zh.wikipedia.org/wiki/');
 mapkey('okz', '#8wiki-zh search', function() {Front.openOmnibar({type: "SearchEngine", extra: "kz"})});
 
+addSearchAliasX('cy', '优词词源', 'http://www.youdict.com/ciyuan/s/');
+mapkey('ocy', '#8优词词源',function() {Front.openOmnibar({type: "SearchEngine", extra: "cy"})});
+
+addSearchAliasX('ce', 'EtymOnline', 'https://www.etymonline.com/search?q=');
+mapkey('oce', '#8EtymOnline', function() {Front.openOmnibar({type: "SearchEngine", extra: "ce"})});
+
 //addSearchAliasX('c', 'caniuse search', 'http://caniuse.com/#search=');
 //mapkey('oc', 'caniuse search', 'Front.openOmnibar({type: "SearchEngine", extra: "c"})');
+
 

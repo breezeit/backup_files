@@ -1,46 +1,45 @@
-﻿;@version:2017-03-22
-;@content:some labels rewrite for functions
+﻿;@version:2018-10-23
+;@content:some labels rewrite for functions；for win10
 
 ;全局
 global volStep := 5                   ;音量标量
 global leftWinWidth := 1360           ;左窗口宽度
 global screenWidth := 1920            ;屏幕总宽度
 global rightWinWidth := % screenWidth-leftWinWidth
-global winHeight := 1047              ;窗口高度
+global winHeight := 1047              ;窗口高度 
 
 ;快捷键
-hotkey,#F1,runHelpSpy                 ;启动AHK帮助和SPY
-hotkey,#h,helpToolTip                 ;脚本内容帮助显示
-;Hotkey,#up,volUp                      ;音量提升
-;hotkey,#down,volDown                  ;音量降低
+hotkey,#^F1,runHelpSpy                 ;启动AHK帮助和SPY
+hotkey,#^h,helpToolTip                 ;脚本内容帮助显示
+Hotkey,#^up,volUp                      ;音量提升
+hotkey,#^down,volDown                  ;音量降低
 hotkey,#!left,toLeft                   		;靠左
 hotkey,#!right,toRight                 		;靠右
-;hotkey,#left,toLeft                   ;靠左
-;hotkey,#right,toRight                 ;靠右
-hotkey,#p,beTransparent220            ;鼠标所指窗口透明化220
-hotkey,#i,beTransparent180            ;鼠标所指窗口透明化180
-hotkey,#o,closeTransparent            ;关闭鼠标所指窗口的透明效果
-hotkey,#t,toggleTop                   ;鼠标所指窗口置顶
-hotkey,#y,youdaoDict                  ;复制单词，自动在有道词典里查找
-hotkey,#m,myComputer                  ;打开我的电脑
-hotkey,#c,calculator                  ;打开计算器
+hotkey,#^p,beTransparent220            ;鼠标所指窗口透明化220
+hotkey,#^i,beTransparent180            ;鼠标所指窗口透明化180
+hotkey,#^o,closeTransparent            ;关闭鼠标所指窗口的透明效果
+hotkey,#^t,toggleTop                   ;鼠标所指窗口置顶
+hotkey,#^y,youdaoDict                  ;复制单词，自动在有道词典里查找
+hotkey,#^m,myComputer                  ;打开我的电脑
+hotkey,#^c,calculator                  ;打开计算器
+;^Space::#Space                         ;修改ctrl-space为win-space方便中英切换
 return
 ;====================================
 helpToolTip: ;脚本内容帮助显示
     Tooltip,
     (
-    win-F1:启动AHK帮助和SPY
-    win-up:音量提升
-    win-down:音量降低
-    win-left:靠左指定大小
-    win-right:靠右指定大小
-    win-p:鼠标所指窗口不透明化220
-    win-i:鼠标所指窗口不透明化180
-    win-o:关闭鼠标所指窗口的透明效果
-    win-t:切换鼠标所指窗口置顶
-    win-y:复制单词，自动在有道词典里查找
-    win-m:打开我的电脑
-    win-c:打开计算器
+    win-alt-F1:启动AHK帮助和SPY
+    win-alt-up:音量提升5
+    win-alt-down:音量降低5
+    win-alt-left:窗口靠左
+    win-alt-right:窗口靠右
+    win-alt-p:鼠标所指窗口不透明化220
+    win-alt-i:鼠标所指窗口不透明化180
+    win-alt-o:关闭鼠标所指窗口的透明效果
+    win-alt-t:切换鼠标所指窗口置顶
+    win-alt-y:复制单词，自动在有道词典里查找
+    win-alt-m:打开我的电脑
+    win-alt-c:打开计算器
     ) ;()表示多行文本
     toolTipTimer(6000)
 return
@@ -77,17 +76,17 @@ runHelpSpy: ;启动AHK帮助和SPY
         {
             run C:\backup_files\autohotkey\AutoHotkey Help v1.1.chm
         }
-    IfWinNotExist, Active Window Info
-        {
-            run C:\Program Files\AutoHotkey\AU3_Spy.exe
-        }
+    ;IfWinNotExist, Active Window Info
+        ;{
+        ;    run C:\Program Files\AutoHotkey\AU3_Spy.exe
+        ;}
 Return
 
 ;窗口左移动
 toLeft(){
     WinGet, active_id, ID, A
     WinRestore,ahk_id %active_id%
-    winmove,ahk_id %active_id%, ,0 , 0 , %leftWinWidth% , %winHeight%
+    winmove,ahk_id %active_id%, ,-7 , 0 , %leftWinWidth% , %winHeight%
     ToolTip,靠左
     tooltiptimer(1000)
 }
@@ -95,7 +94,7 @@ toLeft(){
 toRight(){
     WinGet, active_id, ID, A
     WinRestore,ahk_id %active_id%
-    winmove,ahk_id %active_id%, ,%leftWinWidth% , 0 , %rightWinWidth% ,%winHeight%
+    winmove,ahk_id %active_id%, ,1338, 0 , 587 ,%winHeight%
     ToolTip,靠右
     tooltiptimer(1000)
 }
@@ -142,7 +141,7 @@ youdaoDict:
         }
         else
         {                                      ;启动有道词典
-            run C:\Program Files\Youdao\Dict\YoudaoDict.exe
+            run C:\Program Files (x86)\Youdao\Dict\YoudaoDict.exe
             sleep 2000
             WinActivate,ahk_class YodaoMainWndClass,,,
             send ^v
@@ -160,13 +159,4 @@ return
 calculator:
     run calc.exe    ;计算器
 return
-;f1::
- ;   ifwinexist,ahk_class XLMAIN,,,
-  ;      {
-   ;         send {Click 2}
-    ;        sleep 100
-     ;       send !{enter}
-      ;      sleep 100
-       ;     send {enter}
-        ;}
-;return
+

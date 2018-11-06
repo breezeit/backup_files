@@ -4,6 +4,21 @@
 
 更新记录
 
+
+* version 2018-11
+  * [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ★★★☆☆系统监控，网速内存cpu占用
+  * [Dumeter]() ★★★☆☆专业监控网速
+  * [Xmeters]() ★★★☆☆系统监控，网速内存cpu占用
+  * [Calibre](https://github.com/kovidgoyal/calibre) ★★★☆☆电子书籍管理
+* version 2018-10
+  * [WiseAutoShutdown](http://www.wisecleaner.com/wise-auto-shutdown.html) 自动关机重启等
+  * [CLaunch](http://hp.vector.co.jp/authors/VA018351/claunch.html) 快速启动管理工具
+  * [Honeyview](https://www.bandisoft.com/honeyview/) ★★★★☆ 看图工具(bandi同公司产品)
+  * [Bandizip](https://www.bandisoft.com/bandizip/) ★★★★☆ 压缩解压工具
+  * [WGestures](http://www.yingdev.com/projects/wgestures) ★★★★☆ (开源)鼠标手势
+  * [StrokesPlus](https://www.strokesplus.com/downloads/) ★★★★★ 鼠标手势
+  * [Lily]() ★★★★☆ 启动管理器
+
 * version 2018-09
   * [Dr.Folder](http://www.pcclean.io/dr-folder/) ★★★★☆  文件夹图标修改美化工具
   * [Beyond compare](https://www.scootersoftware.com/download.php) ★★★☆☆ 文件比较
@@ -179,4 +194,7 @@
 - [IT热评](https://www.itreping.com/)
 - [果核剥壳](http://www.ghboke.com/) 
 - [绿色软件联盟](http://www.xdowns.com/) ★★★★☆
+- [易破解](http://www.yipojie.cn/) ★★★★☆
+- [烈火](http://hrtsea.cc/) ★★★★☆
+- [软矿](https://www.rkdot.com/) ★★★☆☆
 
