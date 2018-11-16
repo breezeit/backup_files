@@ -28,18 +28,18 @@ return
 helpToolTip: ;脚本内容帮助显示
     Tooltip,
     (
-    win-alt-F1:启动AHK帮助和SPY
-    win-alt-up:音量提升5
-    win-alt-down:音量降低5
+    win-ctrl-F1:启动AHK帮助和SPY
+    win-ctrl-up:音量提升5
+    win-ctrl-down:音量降低5
     win-alt-left:窗口靠左
     win-alt-right:窗口靠右
-    win-alt-p:鼠标所指窗口不透明化220
-    win-alt-i:鼠标所指窗口不透明化180
-    win-alt-o:关闭鼠标所指窗口的透明效果
-    win-alt-t:切换鼠标所指窗口置顶
-    win-alt-y:复制单词，自动在有道词典里查找
-    win-alt-m:打开我的电脑
-    win-alt-c:打开计算器
+    win-ctrl-p:鼠标所指窗口不透明化220
+    win-ctrl-i:鼠标所指窗口不透明化180
+    win-ctrl-o:关闭鼠标所指窗口的透明效果
+    win-ctrl-t:切换鼠标所指窗口置顶
+    win-ctrl-y:复制单词，自动在有道词典里查找
+    win-ctrl-m:打开我的电脑
+    win-ctrl-c:打开计算器
     ) ;()表示多行文本
     toolTipTimer(6000)
 return
@@ -160,3 +160,15 @@ calculator:
     run calc.exe    ;计算器
 return
 
+;===========================
+;启动/隐藏Total Commander 
+/* #x:: 
+	DetectHiddenWindows, on 
+	IfWinNotExist ahk_class TTOTAL_CMD 
+	Run TC.EXE 
+	Else 
+	IfWinNotActive ahk_class TTOTAL_CMD 
+	WinActivate 
+	Else 
+	WinMinimize 
+Return  */
