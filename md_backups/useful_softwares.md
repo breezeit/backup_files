@@ -29,8 +29,24 @@
   * [IrfanView](https://www.irfanview.com/) 看图工具
   * [DropIt](http://www.dropitproject.com/) 文件分类工具
   * [Shadowsocks](https://shadowsocks.org/en/download/clients.html) ★★★★★ 代理工具
-  * [Xshell](https://www.netsarang.com/download/free_license.html)  
-  * [SourceTree](https://www.sourcetreeapp.com/) 
+  * [Xshell](https://www.netsarang.com/download/free_license.html)  终端工具
+  * [SourceTree](https://www.sourcetreeapp.com/)  git gui工具
+  * [FolderMarker](http://foldermarker.com/en/download-ok-pro/) ★★★★☆ 文件夹美化改图标
+  * [PhotoScissors](https://www.photoscissors.com/download.html) 简易抠图
+  * [冰点文库下载器 ](http://www.bingdian001.com/?p=30) 无需积分就可以自由下载百度、豆丁、丁香、MBALib、道客巴巴、Book118等文库文档
+  * [AquaSnap](https://www.google.com/search?newwindow=1&q=Aquasnap&cad=h) ★★★★☆ 窗口控制
+  * [SwitchHosts](https://oldj.github.io/SwitchHosts/) hosts文件切换
+  * [Sharpkeys](https://github.com/randyrants/sharpkeys/releases) 重新映射键盘按键
+  * [Cmder](https://github.com/cmderdev/cmder) 终端工具
+  * [Process Hacker](https://github.com/processhacker/processhacker) 进程监控
+  * [wireshark](https://github.com/wireshark/wireshark) 抓包，流量分析
+  * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) 微软官方工具集
+  * [seer](https://sourceforge.net/projects/ccseer/) 预览各种格式文件
+  * [xnconvert](https://www.xnview.com/en/xnconvert/#downloads) 批量图片处理
+  * [caesium](https://saerasoft.com/caesium/) 图片压缩
+  * [Preme for Windows](http://www.premeforwindows.com/) 窗口控制
+  * [Free File Sync](https://www.freefilesync.org/) 文件同步
+  * [clipboardfusion](https://www.clipboardfusion.com/Download/) 专业粘贴增强
 * version 2018-10
   * [WiseAutoShutdown](http://www.wisecleaner.com/wise-auto-shutdown.html) 自动关机重启等
   * [CLaunch](http://hp.vector.co.jp/authors/VA018351/claunch.html) 快速启动管理工具
@@ -107,7 +123,7 @@
 - [SocksCap64](https://www.sockscap64.com)★★★★☆ 代理工具
 - [Shadow Defender]()  影子卫士,系统保护还原
 - [portableapps](https://portableapps.com/) 
-- [TeamViewer](https://www.teamviewer.com/zhCN/)  ★★★☆☆ pc,mobile远程控制，个人免费
+- [TeamViewer](https://www.teamviewer.com/zhCN/)  ★★★★☆ pc,mobile远程控制，个人免费
 - [Dism++]()  系统精简工具
 - [hiddex](http://dejavu.narod.ru/hiddex.html) ★★★☆☆ 窗口隐藏
 - [游戏加加](http://gamepp.com/) ★★★☆☆ 游戏时硬件信息显示

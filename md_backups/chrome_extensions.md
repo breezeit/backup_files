@@ -1,6 +1,13 @@
 # chrome extensions 扩展
 ★★★★★ ★★★★☆ ★★★☆☆ ★★☆☆☆ 
+* version 2018-11
 
+  * [Goomarks (Browser for Google Bookmarks)](https://chrome.google.com/webstore/detail/goomarks-browser-for-goog/oknllbfkmapccinochelgmcdjhlgfnik) ★★☆☆☆ 谷歌云书签(带tag)
+  * [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi/related?hl=zh-CN) ★★★☆☆ 更方便美观的历史记录管理
+  * [better-onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg/related?hl=zh-CN) ★★★☆☆ 保留标签页，节约内存
+  * [Diigo Web Collector](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh/related?hl=zh-CN)  书签笔记等，收费
+  * [find+ | Regex Find-in-Page Tool](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related?hl=zh-CN) ★★☆☆☆ 正则查找
+  * [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/grammar-and-spelling-chec/kdfieneakcjfaiglcfcgkidlkmlijjnh/related?hl=zh-CN) 语法检查，收费
 * version 2017-10
   > 从创建到2017-10。
   >
@@ -18,12 +25,12 @@
 ## 必备扩展
 * 样式脚本管理
   * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) ★★★★★ 用户脚本管理工具。脚本可从[greasyfork.org](https://greasyfork.org/) 查找或自写
-  * [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) ★★★★★ 用户样式管理工具。样式可从[userstylishs.org](https://userstyles.org/) 查找或自写
-  * [stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) ★★★★☆ 样式管理
+  * ~~Stylish ★★★★☆ 用户样式管理工具。样式可从userstylishs.org 查找或自写~~
+  * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) ★★★★★ 样式管理
 * 扩展管理
-  * [context](https://chrome.google.com/webstore/detail/context/aalnjolghjkkogicompabhhbbkljnlka) ★★★★★ 分组管理，按组启用禁止
+  * [Context](https://chrome.google.com/webstore/detail/context/aalnjolghjkkogicompabhhbbkljnlka) ★★★★☆  分组管理，按组启用禁止
   * [Extensions Manager (aka Switcher)](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc) ★★★★☆ 搜索扩展和应用，快速管理
-  * [扩展管理器（Extension Manager）](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) ★★★★★ 一键管理所有扩展，快速开启/禁用、批量闪电管理，智能排序，右键卸载、锁定、选项配置，角标提醒
+  * [扩展管理器（Extension Manager）](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) ★★★★☆  一键管理所有扩展，快速开启/禁用、批量闪电管理，智能排序，右键卸载、锁定、选项配置，角标提醒
   * [二管家](https://chrome.google.com/webstore/detail/nooboss-extensions-manage/aajodjghehmlpahhboidcpfjcncmcklf)  ★★★★★ 拓展管理拓展，拓展更新通知并记录拓展历史，根据规则自动开启/关闭拓展
 * 梯子管理工具
   * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) ★★★★☆ 快捷地管理和切换多个代理设置
@@ -35,16 +42,16 @@
 
 ---
 ## 常驻扩展
-  * [Bookmark Manager](https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik) ★★★☆☆ Google 搜索的智能设计与全新的现代版界面完美结合，让添加书签变得更轻松。
+  * ~~[Bookmark Manager](https://chrome.google.com/webstore/detail/bookmark-manager/gmlllbghnfkpflemihljekbapjopfjik) ★★★☆☆ Google 搜索的智能设计与全新的现代版界面完美结合，让添加书签变得更轻松。~~
   * [右键搜](https://chrome.google.com/webstore/detail/context-menus/phlfmkfpmphogkomddckmggcfpmfchpn) ★★★★☆ 扩展右键菜单，超过300种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。设置可使用云存储。最新增加功能共享、资源下载、重命名等功能。右键搜伴侣增加超级拖拽。
   * [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc) ★★★★★ vim类工具，可扩展
   * [SimpleUndoClose](https://chrome.google.com/webstore/detail/simpleundoclose/emhohdghchmjepmigjojkehidlielknj) ★★★☆☆ 撤销关闭的标签
-  * [Infinity新标签页](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg) ★★★☆☆ 新标签页增强
+  * [Infinity新标签页](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg) ★★★★☆ 新标签页增强
   * [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) ★★★★★ 密码管理
   * [缩放](https://chrome.google.com/webstore/detail/zoom/lajondecmobodlejlcjllhojikagldgd/reviews) ★★★☆☆ 可保存网页缩放记录
   * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?utm_source=chrome-app-launcher-info-dialog) ★★★★☆ 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑,可自定义规则。
-  * [Manic Time Url Tracker] ★★★★☆ Manic Time 配套
-  * [Volume Master] ★★★★☆ 分网页控制音量
+  * [Manic Time Url Tracker]() ★★★★☆ Manic Time 配套
+  * [Volume Master]() ★★★★☆ 分网页控制音量
 
 ---
 
@@ -54,9 +61,9 @@
 * [Break Timer](https://chrome.google.com/webstore/detail/break-timer/hklkdbpicdmlpoiellngedpejjkmapei) ★★★☆☆ 定时提醒休息
 * [有道词典Chrome鼠标取词插件](https://chrome.google.com/webstore/detail/%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8chrome%E9%BC%A0%E6%A0%87%E5%8F%96%E8%AF%8D%E6%8F%92%E4%BB%B6/aohddidmgooofkgohkbkaohadkolgejj) ★★★☆☆ 支持有道词典在Chrome浏览器中实现鼠标取词
 * [马甲](https://chrome.google.com/webstore/detail/%E9%A9%AC%E7%94%B2/mbagihlilbaofbfpmnicoonnebmhohmm?utm_source=chrome-app-launcher-info-dialog) ★★★★☆ 快速切换同一网站的多个已登录账号，支持豆瓣、知乎、微博、Twitter、Facebook 等等
-* [广告净化器] ★★★☆☆
+* ~~[广告净化器]() ★★★☆☆~~
 * [二箱 : 多引擎以图搜图+HTML5视频控制](https://chrome.google.com/webstore/detail/noobox/kidibbfcblfbbafhnlanccjjdehoahep?utm_source=chrome-app-launcher-info-dialog) ★★★★☆ 多引擎以图搜图+提取图片+截图搜索+HTML5视频控制 
-* [Header Editor] ★★★☆☆ 头部修改
+* [Header Editor]() ★★★☆☆ 头部修改
 
 ## 功能增强
 
@@ -95,6 +102,7 @@
 * [Private Bookmarks](https://chrome.google.com/webstore/detail/private-bookmarks/cbheenbihjdgbmbogbefcgnpfoflhnhl) Save your websites, where no one can see them!
 * [Holmes](https://chrome.google.com/webstore/detail/holmes/gokficnebmomagijbakglkcmhdbchbhn) ★★★☆☆ Bookmark Search
 * [SuperSorter](https://chrome.google.com/webstore/detail/supersorter/hjebfgojnlefhdgmomncgjglmdckngij?hl=zh-CN) Clean up your bookmark mess! Sort bookmarks recursively, delete duplicates, merge folders, sort automatically, etc.
+* [Goomarks (Browser for Google Bookmarks)](https://chrome.google.com/webstore/detail/goomarks-browser-for-goog/oknllbfkmapccinochelgmcdjhlgfnik) ★★★☆☆ 谷歌云书签(带tag)
 ###  浏览器功能增强 
 * [Chromium Wheel Smooth Scroller](https://chrome.google.com/webstore/detail/chromium-wheel-smooth-scr/khpcanbeojalbkpgpmjpdkjnkfcgfkhb?utm_source=chrome-app-launcher-info-dialog) ★★★☆☆ Make scroll behavior smooth, ease-in-out manner, customizable with dynamically plotted curve.
 * [Extension Automation](https://chrome.google.com/webstore/detail/extension-automation/ghopjgdkodchjclkkfdekhjfomdbakkb?utm_source=chrome-app-launcher-info-dialog) ★☆☆☆☆ Automatically enables and disables extensions for specified sites. For simpler browsing and better performance.
