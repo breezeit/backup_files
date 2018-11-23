@@ -2,13 +2,43 @@
 ★★★★★ ★★★★☆ ★★★☆☆ ★★☆☆☆ 
 * version 2018-11
 
-  * [Goomarks (Browser for Google Bookmarks)](https://chrome.google.com/webstore/detail/goomarks-browser-for-goog/oknllbfkmapccinochelgmcdjhlgfnik) ★★☆☆☆ 谷歌云书签(带tag)
-  * [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi/related?hl=zh-CN) ★★★☆☆ 更方便美观的历史记录管理
-  * [better-onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg/related?hl=zh-CN) ★★★☆☆ 保留标签页，节约内存
-  * [Diigo Web Collector](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh/related?hl=zh-CN)  书签笔记等，收费
-  * [find+ | Regex Find-in-Page Tool](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb/related?hl=zh-CN) ★★☆☆☆ 正则查找
-  * [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/grammar-and-spelling-chec/kdfieneakcjfaiglcfcgkidlkmlijjnh/related?hl=zh-CN) 语法检查，收费
-* version 2017-10
+  * [Goomarks (Browser for Google Bookmarks)](https://chrome.google.com/webstore/detail/goomarks-browser-for-goog/oknllbfkmapccinochelgmcdjhlgfnik) ★★★☆☆ 谷歌云书签(带tag)
+  * [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi?hl=zh-CN) ★★★☆☆ 更方便美观的历史记录管理
+  * [better-onetab](https://chrome.google.com/webstore/detail/better-onetab/eookhngofldnbnidjlbkeecljkfpmfpg?hl=zh-CN) ★★★☆☆ 保留标签页，节约内存
+  * [Diigo Web Collector](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh?hl=zh-CN)  书签笔记等，收费
+  * [find+ | Regex Find-in-Page Tool](https://chrome.google.com/webstore/detail/find%2B-regex-find-in-page/fddffkdncgkkdjobemgbpojjeffmmofb?hl=zh-CN) ★★☆☆☆ 正则查找
+  * [Grammar and Spelling checker by Ginger](https://chrome.google.com/webstore/detail/grammar-and-spelling-chec/kdfieneakcjfaiglcfcgkidlkmlijjnh?hl=zh-CN) ★★☆☆☆ 语法检查，收费
+  * [S3.Translator](https://chrome.google.com/webstore/detail/s3translator/debnnjfbneojbmioajinefnflopdohjk) ★★★★☆ 翻译
+  * [Selection Context Search](https://chrome.google.com/webstore/detail/selection-context-search/kplgehmegmjifbhioeldcnphfkcfckjj?hl=zh-CN) ★★★★★ 超强右键搜索菜单
+  * [简悦 - SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll) 阅读模式
+  * [Wikiwand: Wikipedia Modernized](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) ★★☆☆☆ wiki美化
+  * [Hover Zoom+](https://chrome.google.com/webstore/detail/hover-zoom%2B/pccckmaobkjjboncdfnnofkonhgpceea) 按键图片放大等(不方便与vim类插件兼容)
+  * [Save In…](https://chrome.google.com/webstore/detail/save-in…/jpblofcpgfjikaapfedldfeilmpgkedf) ★★★★☆ 预定义图片存放路径
+  * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) 图片下载
+  * [Dualsub](https://chrome.google.com/webstore/detail/dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp) ★★★★☆ 油管双字幕
+  * [Wildfire](https://chrome.google.com/webstore/detail/wildfire/djhgeeodemlfdpmcccdekfalbhllcoim) ★★★☆☆ 录制动作用于自动化(类似按键精灵的录制)
+  * [Cookie Manager](https://chrome.google.com/webstore/detail/cookie-manager/kbnfbcpkiaganjpcanopcgeoehkleeck)  ★★★☆☆ 
+  * [Web Timer](https://chrome.google.com/webstore/detail/web-timer/efkkjffdefaaioagghcaflicdajfhceo) ★☆☆☆☆ 统计网站访问时间
+  * [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk) ★☆☆☆☆ 统计网站访问时间
+  * [TimeYourWeb Time Tracker](https://chrome.google.com/webstore/detail/timeyourweb-time-tracker/kfmlkgchpffnaphmlmjnimonlldbcpnh) 
+  * [Memento Time Travel](https://chrome.google.com/webstore/detail/memento-time-travel/jgbfpjledahoajcppakbgilmojkaghgm) ★★★★☆ 网页时光机
+  * [CodeCopy](https://chrome.google.com/webstore/detail/codecopy/fkbfebkcoelajmhanocgppanfoojcdmg) 方便某些网站上的代码复制
+  * [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle) 网页资源下载保存
+  * [Get CRX](https://chrome.google.com/webstore/detail/get-crx/dijpllakibenlejkbajahncialkbdkjc) 获取extension的crx文件
+  * [新浪微博图床](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf) ★★★☆☆
+  * [微博图片反查](https://chrome.google.com/webstore/detail/%E5%BE%AE%E5%8D%9A%E5%9B%BE%E7%89%87%E5%8F%8D%E6%9F%A5/egbnikffkpbahjabjhgblnfgbcnckjop) 
+  * [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd) ★☆☆☆☆中文英文数字之间加个空格
+  * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) ★★★☆☆ github树形侧边栏
+  * [书签侧边栏](https://chrome.google.com/webstore/search/%E4%B9%A6%E7%AD%BE%E4%BE%A7%E8%BE%B9%E6%A0%8F) ★★☆☆☆ 美观的侧边栏书签栏
+  * [Raindrop.io: "Save Button" for Web](https://chrome.google.com/webstore/detail/raindropio-save-button-fo/ldgfbffkinooeloadekpmfoklnobpien/related) ★★★★☆ 云书签tag ,folder管理，收费增强
+  * [Dewey Bookmarks](https://chrome.google.com/webstore/detail/dewey-bookmarks/aahpfefkmihhdabllidnlipghcjgpkdm) ★★★☆☆ 应用，本地文件夹视为tag，可添加tag,多年停更
+  * [Bookmark Favicon Changer](https://chrome.google.com/webstore/detail/bookmark-favicon-changer/acmfnomgphggonodopogfbmkneepfgnh/related?hl=zh-CN)  ★★★☆☆
+  * [Development favicon](https://chrome.google.com/webstore/detail/development-favicon/pdfbbnojibegcfdmhcccicmllbbkpeaf/related?hl=zh-CN) 正则自定义标签颜色
+  * [GitHub Plus](https://chrome.google.com/webstore/detail/github-plus/lndphafdikhmpgopmchckooegfnifafm) 
+  * [Github File Icons](https://chrome.google.com/webstore/detail/github-file-icons/kkokonbjllgdmblmbichgkkikhlcnekp) ★★★☆☆
+  * [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf) 
+  * [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa) 
+* version 2017-10 
   > 从创建到2017-10。
   >
   > 星号评价：表示经常使用，实用程度高低，功能是否强大等综合评价；
@@ -52,6 +82,7 @@
   * [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?utm_source=chrome-app-launcher-info-dialog) ★★★★☆ 鼠标指针悬停在链接或缩略图上时直接在当前页面的弹出视图上显示这些图片、HTML5 视频/音频和内容专辑,可自定义规则。
   * [Manic Time Url Tracker]() ★★★★☆ Manic Time 配套
   * [Volume Master]() ★★★★☆ 分网页控制音量
+  * [Selection Context Search](https://chrome.google.com/webstore/detail/selection-context-search/kplgehmegmjifbhioeldcnphfkcfckjj?hl=zh-CN) ★★★★★ 超强右键搜索菜单
 
 ---
 
@@ -83,7 +114,7 @@
 *  [阅读模式](https://chrome.google.com/webstore/detail/reader-view/iibolhpkjjmoepndefdmdlmbpfhlgjpl?utm_source=chrome-app-launcher-info-dialog) ★☆☆☆☆ 提供与Safari阅读模式功能一致的插件，浏览文章页时候可进入友好的阅读模式，并自定义阅读功能。
 *  [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) 隐私保护
 *  [Enable Copy](https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio) 解除复制限制
-*  [Wikiwand: Wikipedia Modernized](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj/related?hl=zh-CN) Good old Wikipedia gets a great new look
+*  [Wikiwand: Wikipedia Modernized](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=zh-CN) Good old Wikipedia gets a great new look
 *  [Vanilla Cookie Manager](https://chrome.google.com/webstore/detail/vanilla-cookie-manager/gieohaicffldbmiilohhggbidhephnjj?hl=zh-CN) A Cookie Whitelist Manager that helps protect your privacy. Automatically removes unwanted cookies.
 *  [Play the GIF](https://chrome.google.com/webstore/detail/play-the-gif/mchecalpedamcfhiadokofgomojakmki?hl=zh-CN) Play the GIF allows you to play GIF animations at any speed or size you like
 *  [定時自動重新整理頁面](https://chrome.google.com/webstore/detail/super-auto-refresh/kkhjakkgopekjlempoplnjclgedabddk?utm_source=chrome-app-launcher-info-dialog) 讓你以最輕鬆漂亮的方式定時自動重新整理刷新頁面，完全無廣告
@@ -95,8 +126,8 @@
 ###  Bookmark增强
 * [Bookmark Checker](https://chrome.google.com/webstore/detail/bookmark-checker/lnboppjpcdnckcklbmjmdahfkpmgglec?utm_source=chrome-app-launcher-info-dialog) ★★★☆☆ Scan favorites for broken or dead links. Delete empty, and duplicate folders
 * [Bookmarkie](https://chrome.google.com/webstore/detail/bookmarkie/ahlphbdcaacfhkiajebghpngknafklbj?utm_source=chrome-app-launcher-info-dialog) 在一个弹出菜单中查看、整理或编辑你的书签
-* [Bookmark Manager Plus](https://chrome.google.com/webstore/detail/bookmark-manager-plus/pfbeenngglcojppheoegjjjomfkejibg/related?hl=zh-CN) ★★★★☆ Search bookmarks and do whatever you can imagine
-* [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh/related?hl=zh-CN) Adds a toggleable sidebar with all your bookmarks on the left side of your screen.
+* [Bookmark Manager Plus](https://chrome.google.com/webstore/detail/bookmark-manager-plus/pfbeenngglcojppheoegjjjomfkejibg?hl=zh-CN) ★★★★☆ Search bookmarks and do whatever you can imagine
+* [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh?hl=zh-CN) Adds a toggleable sidebar with all your bookmarks on the left side of your screen.
 * [Recent Bookmarks](https://chrome.google.com/webstore/detail/recent-bookmarks/olndffocioplakeilhkgenfgdincjlpn) A list of recent bookmarks in descending order, grouped by the day they were added
 * [Popup my Bookmarks](https://chrome.google.com/webstore/detail/popup-my-bookmarks/mppflflkbbafeopeoeigkbbdjdbeifni?hl=zh-CN) 更有效率地查看及管理你的书签选单
 * [Private Bookmarks](https://chrome.google.com/webstore/detail/private-bookmarks/cbheenbihjdgbmbogbefcgnpfoflhnhl) Save your websites, where no one can see them!
@@ -110,7 +141,7 @@
 * [Stickies - Chrome's Post-it Notes](https://chrome.google.com/webstore/detail/stickies-chromes-post-it/djffibmpaakodnbmcdemmmjmeolcmbae) ★★★★☆ Add post-it notes on any web page and access them whenever you visit those web pages again.(作用类似书签，有note和跳转)
 * [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?utm_source=chrome-app-launcher-info-dialog) 用Markdown写一封漂亮的电子邮件
 * [Grammarly] 
-* [iMacros for Chrome](https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp/related?hl=zh-CN) Automate your web browser. Record and replay repetitious work 自动填表
+* [iMacros for Chrome](https://chrome.google.com/webstore/detail/imacros-for-chrome/cplklnmnlbnpmjogncfgfijoopmnlemp?hl=zh-CN) Automate your web browser. Record and replay repetitious work 自动填表
 * [Sticky Notes - Just popped up!](https://chrome.google.com/webstore/detail/sticky-notes-just-popped/plpdjbappofmfbgdmhoaabefbobddchk?utm_source=chrome-app-launcher-info-dialog) ★☆☆☆☆ 标签笔记。Easiest way for taking quick notes. Features like font size, color & themes. Collect as you browse in an awesome manner
 * [增强复制](https://chrome.google.com/webstore/detail/copy-better/hpihdokfdmmghaclaojfpmbckkhjgebc?utm_source=chrome-app-launcher-info-dialog)
 * [Regex Search](https://chrome.google.com/webstore/detail/regex-search/bcdabfmndggphffkchfdcekcokmbnkjl?utm_source=chrome-app-launcher-info-dialog)
@@ -152,7 +183,7 @@
   * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?utm_source=chrome-app-launcher-info-dialog) Browse and download images on a web page.
   * [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?utm_source=chrome-app-launcher-info-dialog) ★★★★☆ 找出当前页面的所有图片，提供按分辨率、链接等筛选图片，做一个简单好用的下载图片扩展
   * [小乐图客(ZIG)](https://chrome.google.com/webstore/detail/bulk-download-imageszig/gfjhimhkjmipphnaminnnnjpnlneeplk)  ★★★★☆ Chrome图片下载工具5合1 = 取图(一键批量下载保存图片) + 截图 + 美图 + 拼图 + 以图搜图(右击图片)。另有网址二维码、搜索引擎等功能，极客必备！
-  * [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/related) fdm配套扩展
+  * [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp) fdm配套扩展
   * [图片助手(ImageAssistant)](https://chrome.google.com/webstore/detail/imageassistant/dbjbempljhcmhlfpfacalomonjpalpko) ★★★★★ 嗅探、分析网页图片并提供批量下载等功能
   * [I'm a Gentleman](https://chrome.google.com/webstore/detail/im-a-gentleman/afjaicccalbbickikgdegaihmajaidpd) Save an image with one click or dragging it, or all the images in the page using the extension button.
 ## 截图工具
@@ -199,7 +230,7 @@
   * [Fullscreen Anything](https://chrome.google.com/webstore/detail/fullscreen-anything/olcfgpmjldkkjdclidhcbonieibfhhdh?utm_source=chrome-app-launcher-info-dialog) Maximizes images, videos, and games
   * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=zh-CN) ★★☆☆☆ Speed up, slow down, advance and rewind any HTML5 video with quick shortcuts.
   * [页游修改器|金手指](https://chrome.google.com/webstore/detail/game-modifier-cheat-engin/innflepfdbcnhiiemhckbneipmmnknhp?utm_source=chrome-ntp-icon) 与「金手指」一样查找并修改H5网页游戏内参数，能任意修改分数，破解关卡，秒杀boss等。
-* [哔哩哔哩助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh/related?utm_source=chrome-app-launcher-info-dialog) 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能
+* [哔哩哔哩助手](https://chrome.google.com/webstore/detail/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A9%E6%89%8B%EF%BC%9Abilibilicom-%E7%BB%BC%E5%90%88%E8%BE%85%E5%8A%A9%E6%89%A9%E5%B1%95/kpbnombpnpcffllnianjibmpadjolanh?utm_source=chrome-app-launcher-info-dialog) 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能
 * [Magic Actions for YouTube™](https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif) Enhance your YouTube watching experience! Cinema Mode, Mouse Wheel Volume Control, AutoHD, Expand, Snapshots
 * [Youku HTML5 Player](https://chrome.google.com/webstore/detail/youku-html5-player/fpnknfakcmgkbhccgpgnbaddggjligol) Farewell to flash and ads. Open source：https://github.com/esterTion/Youku-HTML5-Player
 

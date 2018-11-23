@@ -1,0 +1,536 @@
+{
+  "sVersion": "5.18",
+  "websiteList": [
+    {
+      "type": "recent",
+      "recentLen": 1,
+      "contexts": [
+        "selection"
+      ],
+      "id": 1
+    },
+    {
+      "type": "separator",
+      "contexts": [
+        "selection"
+      ],
+      "id": 2
+    },
+    {
+      "type": "folder",
+      "name": "Popup",
+      "id": 41,
+      "icon": "",
+      "folder": [
+        {
+          "type": "link",
+          "name": "知乎",
+          "address": "https://www.zhihu.com/search?type=content&q=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 45,
+          "popup": true
+        },
+        {
+          "type": "link",
+          "name": "Google-CN",
+          "address": "https://www.google.com/search?lr=lang_zh-CN%7Clang_zh-TW&q=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 46,
+          "popup": true
+        },
+        {
+          "type": "link",
+          "name": "百度",
+          "address": "https://www.baidu.com/s?wd=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 47,
+          "popup": true
+        },
+        {
+          "type": "link",
+          "name": "YouTube",
+          "address": "https://www.youtube.com/results?search_query=",
+          "contexts": [
+            "selection"
+          ],
+          "popup": true,
+          "id": 4
+        },
+        {
+          "type": "link",
+          "name": "Google Images",
+          "address": "https://www.google.com/images?q=",
+          "contexts": [
+            "selection"
+          ],
+          "popup": true,
+          "id": 5
+        },
+        {
+          "type": "link",
+          "name": "Google",
+          "address": "https://www.google.com/search?q=",
+          "contexts": [
+            "selection",
+            "page",
+            "frame",
+            "tab"
+          ],
+          "popup": true,
+          "prompt": true,
+          "id": 3
+        }
+      ],
+      "collapse": true
+    },
+    {
+      "type": "folder",
+      "name": "Images",
+      "id": 44,
+      "icon": "",
+      "folder": [
+        {
+          "type": "link",
+          "name": "Yandex搜图",
+          "address": "https://yandex.com/images/search?source=collections&&url=~$U$~&rpt=imageview",
+          "contexts": [
+            "image"
+          ],
+          "id": 55
+        },
+        {
+          "type": "link",
+          "name": "Baidu 搜图",
+          "address": "https://image.baidu.com/pcdutu?queryImageUrl=~$U$~",
+          "contexts": [
+            "image"
+          ],
+          "id": 56
+        },
+        {
+          "type": "link",
+          "name": "TinEye reverse image search",
+          "address": "https://www.tineye.com/search?url=~$U$~",
+          "contexts": [
+            "image"
+          ],
+          "id": 27
+        },
+        {
+          "type": "link",
+          "name": "Google reverse image search",
+          "address": "https://images.google.com/searchbyimage?image_url=~$U$~",
+          "contexts": [
+            "image"
+          ],
+          "id": 26
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "Softwares",
+      "id": 38,
+      "icon": "",
+      "folder": [
+        {
+          "type": "link",
+          "name": "大眼仔",
+          "address": "http://www.dayanzai.me/?s=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 40
+        },
+        {
+          "type": "link",
+          "name": "心海e站",
+          "address": "https://hrtsea.com/?s=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 39
+        },
+        {
+          "type": "link",
+          "name": "易破解",
+          "address": "http://www.yipojie.cn/?s=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 37
+        }
+      ],
+      "collapse": true
+    },
+    {
+      "type": "folder",
+      "name": "Others...",
+      "folder": [
+        {
+          "type": "link",
+          "name": "优酷",
+          "address": "http://so.youku.com/search_video/q_",
+          "contexts": [
+            "selection"
+          ],
+          "id": 51
+        },
+        {
+          "type": "link",
+          "name": "微博",
+          "address": "http://s.weibo.com/weibo/",
+          "contexts": [
+            "selection"
+          ],
+          "id": 52
+        },
+        {
+          "type": "link",
+          "name": "微信",
+          "address": "http://weixin.sogou.com/weixin?type=2&query=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 53
+        },
+        {
+          "type": "link",
+          "name": "谷歌站内搜索",
+          "address": "https://www.google.com/search?q=~$S$~+site:~$B$~",
+          "contexts": [
+            "selection",
+            "page",
+            "frame",
+            "tab"
+          ],
+          "prompt": true,
+          "id": 24
+        },
+        {
+          "type": "link",
+          "name": "百度站内搜索",
+          "address": "https://www.baidu.com/s?wd=~$S$~+site:~$B$~",
+          "contexts": [
+            "selection",
+            "page",
+            "frame"
+          ],
+          "id": 54,
+          "prompt": true
+        },
+        {
+          "type": "link",
+          "name": "Bing",
+          "address": "https://www.bing.com/search?q=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 12
+        },
+        {
+          "type": "link",
+          "name": "DuckDuckGo",
+          "address": "https://duckduckgo.com/html?q=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 11
+        },
+        {
+          "type": "folder",
+          "name": "SNS",
+          "id": 43,
+          "icon": "",
+          "folder": [
+            {
+              "type": "link",
+              "name": "Reddit",
+              "address": "https://www.reddit.com/search?q=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 16
+            },
+            {
+              "type": "link",
+              "name": "Instagram on Google",
+              "address": "https://www.google.com/search?q=site:instagram.com+",
+              "contexts": [
+                "selection"
+              ],
+              "id": 17
+            },
+            {
+              "type": "link",
+              "name": "Imgur on Google",
+              "address": "https://www.google.com/search?q=site:imgur.com+",
+              "contexts": [
+                "selection"
+              ],
+              "id": 18
+            },
+            {
+              "type": "link",
+              "name": "Twitter",
+              "address": "https://mobile.twitter.com/search?q=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 15
+            },
+            {
+              "type": "link",
+              "name": "Facebook",
+              "address": "https://www.facebook.com/public?query=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 14
+            }
+          ],
+          "collapse": true
+        },
+        {
+          "type": "folder",
+          "name": "Knowledge",
+          "id": 49,
+          "icon": "",
+          "folder": [
+            {
+              "type": "link",
+              "name": "维基中文",
+              "address": "https://zh.wikipedia.org/wiki/",
+              "contexts": [
+                "selection"
+              ],
+              "id": 48
+            },
+            {
+              "type": "link",
+              "name": "Wikipedia",
+              "address": "https://en.wikipedia.org/wiki/",
+              "contexts": [
+                "selection"
+              ],
+              "id": 7
+            },
+            {
+              "type": "link",
+              "name": "Movies",
+              "address": "https://www.imdb.com/find?q=",
+              "id": 23,
+              "contexts": [
+                "selection"
+              ]
+            },
+            {
+              "type": "link",
+              "name": "Dictionary",
+              "address": "https://www.thefreedictionary.com/",
+              "contexts": [
+                "selection"
+              ],
+              "id": 21
+            }
+          ],
+          "collapse": true
+        },
+        {
+          "type": "folder",
+          "name": "QRCode",
+          "id": 57,
+          "icon": "",
+          "folder": [
+            {
+              "type": "link",
+              "name": "页面二维码",
+              "address": "http://qr.liantu.com/api.php?w=250&text=~$U$~",
+              "contexts": [
+                "page"
+              ],
+              "id": 58
+            },
+            {
+              "type": "link",
+              "name": "图片二维码",
+              "address": "http://qr.liantu.com/api.php?w=250&text=~$U$~",
+              "contexts": [
+                "image"
+              ],
+              "id": 59
+            },
+            {
+              "type": "link",
+              "name": "文字二维码",
+              "address": "http://qr.liantu.com/api.php?w=250&text=~$S$~",
+              "contexts": [
+                "selection"
+              ],
+              "id": 60
+            },
+            {
+              "type": "link",
+              "name": "链接二维码",
+              "address": "http://qr.liantu.com/api.php?w=250&text=~$U$~",
+              "contexts": [
+                "link"
+              ],
+              "id": 61
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "Maps",
+          "id": 42,
+          "icon": "",
+          "folder": [
+            {
+              "type": "link",
+              "name": "Google Maps",
+              "address": "https://maps.google.com/maps?q=",
+              "icon": "https://www.google.com/images/branding/product/ico/maps_32dp.ico",
+              "contexts": [
+                "selection"
+              ],
+              "id": 6
+            },
+            {
+              "type": "link",
+              "name": "Bing Maps",
+              "address": "https://www.bing.com/maps/?q=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 13
+            }
+          ],
+          "collapse": true
+        },
+        {
+          "type": "folder",
+          "name": "Others",
+          "id": 50,
+          "icon": "",
+          "folder": [
+            {
+              "type": "link",
+              "name": "存档当前页",
+              "address": "http://archive.fo/?run=1&url=~$U$~",
+              "contexts": [
+                "page",
+                "frame"
+              ],
+              "id": 63
+            },
+            {
+              "type": "link",
+              "name": "Google快照",
+              "address": "https://webcache.googleusercontent.com/search?q=cache:~$U$~",
+              "contexts": [
+                "page",
+                "frame"
+              ],
+              "id": 62
+            },
+            {
+              "type": "link",
+              "name": "Internet Archive",
+              "address": "https://web.archive.org/web/*/~$U$~",
+              "icon": "https://web.archive.org/static/images/archive.ico",
+              "contexts": [
+                "page",
+                "frame",
+                "tab"
+              ],
+              "id": 30
+            }
+          ]
+        }
+      ],
+      "id": 9
+    },
+    {
+      "type": "link",
+      "name": "Open selected link",
+      "address": "",
+      "contexts": [
+        "selection"
+      ],
+      "id": 25
+    },
+    {
+      "type": "separator",
+      "contexts": [
+        "selection",
+        "page",
+        "frame",
+        "tab"
+      ],
+      "id": 31
+    },
+    {
+      "type": "bookmarks",
+      "address": "书签栏\\Search",
+      "contexts": [
+        "selection"
+      ],
+      "id": 32
+    },
+    {
+      "type": "folder",
+      "name": "Bookmarks",
+      "folder": [
+        {
+          "type": "bookmarks",
+          "address": "书签栏\\Context Menu",
+          "contexts": [
+            "page",
+            "frame",
+            "tab"
+          ],
+          "id": 34
+        }
+      ],
+      "id": 33
+    },
+    {
+      "type": "separator",
+      "contexts": [
+        "selection"
+      ],
+      "id": 35
+    },
+    {
+      "type": "options",
+      "contexts": [
+        "selection"
+      ],
+      "id": 36
+    }
+  ],
+  "sMenuLabel": "Find '%s' using ...",
+  "bShowPopup": true,
+  "iPopupMaxColumns": 6,
+  "iPopupIconSize": 21,
+  "bClosePopupOnClick": true,
+  "bClosePopupOnScroll": true,
+  "bClosePopupOnTimeout": true,
+  "iPopupCloseTimeout": 4,
+  "bShowAddSearchPage": true,
+  "bCopySelection": false,
+  "sOpenSearchIn": "opnt",
+  "oPlaceHolder": {
+    "keywords": "~$S$~",
+    "url": "~$U$~",
+    "subdomain": "~$B$~",
+    "domain": "~$D$~"
+  }
+}
