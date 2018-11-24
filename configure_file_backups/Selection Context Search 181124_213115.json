@@ -1,0 +1,575 @@
+{
+  "sVersion": "5.18",
+  "websiteList": [
+    {
+      "contexts": [
+        "selection"
+      ],
+      "id": 1,
+      "popup": true,
+      "recentLen": 1,
+      "type": "recent"
+    },
+    {
+      "contexts": [
+        "selection"
+      ],
+      "id": 2,
+      "type": "separator"
+    },
+    {
+      "folder": [
+        {
+          "address": "https://www.zhihu.com/search?type=content&q=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 45,
+          "name": "知乎",
+          "popup": true,
+          "type": "link"
+        },
+        {
+          "address": "https://www.google.com/search?lr=lang_zh-CN%7Clang_zh-TW&q=",
+          "contexts": [
+            "selection"
+          ],
+          "icon": "https://wx3.sinaimg.cn/mw690/9e146487gy1fxelpd4v3tj202o02o3y9.jpg",
+          "id": 46,
+          "name": "Google-CN",
+          "popup": true,
+          "type": "link"
+        },
+        {
+          "address": "https://www.baidu.com/s?wd=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 47,
+          "name": "百度",
+          "popup": true,
+          "type": "link"
+        },
+        {
+          "address": "https://www.youtube.com/results?search_query=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 4,
+          "name": "YouTube",
+          "popup": true,
+          "type": "link"
+        },
+        {
+          "address": "https://www.google.com/images?q=",
+          "contexts": [
+            "selection"
+          ],
+          "icon": "https://wx1.sinaimg.cn/mw690/9e146487gy1fxelrzz36nj202o02o741.jpg",
+          "id": 5,
+          "name": "Google Images",
+          "popup": true,
+          "type": "link"
+        },
+        {
+          "address": "https://www.google.com/search?q=",
+          "contexts": [
+            "selection",
+            "page",
+            "frame",
+            "tab"
+          ],
+          "id": 3,
+          "name": "Google",
+          "popup": true,
+          "prompt": true,
+          "type": "link"
+        }
+      ],
+      "icon": "",
+      "id": 41,
+      "name": "Popup",
+      "type": "folder"
+    },
+    {
+      "folder": [
+        {
+          "address": "https://yandex.com/images/search?source=collections&&url=~$U$~&rpt=imageview",
+          "contexts": [
+            "image"
+          ],
+          "id": 55,
+          "name": "Yandex搜图",
+          "type": "link"
+        },
+        {
+          "address": "https://image.baidu.com/pcdutu?queryImageUrl=~$U$~",
+          "contexts": [
+            "image"
+          ],
+          "id": 56,
+          "name": "Baidu 搜图",
+          "type": "link"
+        },
+        {
+          "address": "https://www.tineye.com/search?url=~$U$~",
+          "contexts": [
+            "image"
+          ],
+          "id": 27,
+          "name": "TinEye 搜图",
+          "type": "link"
+        },
+        {
+          "address": "https://images.google.com/searchbyimage?image_url=~$U$~",
+          "contexts": [
+            "image"
+          ],
+          "id": 26,
+          "name": "Google 搜图",
+          "type": "link"
+        }
+      ],
+      "icon": "",
+      "id": 44,
+      "name": "Images",
+      "type": "folder"
+    },
+    {
+      "folder": [
+        {
+          "address": "https://chrome.google.com/webstore/search/",
+          "contexts": [
+            "selection"
+          ],
+          "icon": "https://favicon.yandex.net/favicon/crxextractor.com",
+          "id": 67,
+          "name": "ChromeExtension",
+          "popup": true,
+          "type": "link"
+        },
+        {
+          "address": "https://masuit.com/s?wd=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 64,
+          "name": "懒得勤快",
+          "type": "link"
+        },
+        {
+          "address": "http://www.dayanzai.me/?s=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 40,
+          "name": "大眼仔",
+          "type": "link"
+        },
+        {
+          "address": "https://hrtsea.com/?s=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 39,
+          "name": "心海e站",
+          "type": "link"
+        },
+        {
+          "address": "http://www.yipojie.cn/?s=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 37,
+          "name": "易破解",
+          "type": "link"
+        }
+      ],
+      "icon": "",
+      "id": 38,
+      "name": "Softwares",
+      "type": "folder"
+    },
+    {
+      "collapse": true,
+      "folder": [
+        {
+          "address": "http://qr.liantu.com/api.php?w=250&text=~$U$~",
+          "contexts": [
+            "image"
+          ],
+          "id": 59,
+          "name": "图片二维码",
+          "type": "link"
+        },
+        {
+          "address": "http://qr.liantu.com/api.php?w=250&text=~$U$~",
+          "contexts": [
+            "page"
+          ],
+          "id": 58,
+          "name": "页面二维码",
+          "type": "link"
+        },
+        {
+          "address": "http://qr.liantu.com/api.php?w=250&text=~$S$~",
+          "contexts": [
+            "selection"
+          ],
+          "id": 60,
+          "name": "文字二维码",
+          "type": "link"
+        },
+        {
+          "address": "http://qr.liantu.com/api.php?w=250&text=~$U$~",
+          "contexts": [
+            "link"
+          ],
+          "id": 61,
+          "name": "链接二维码",
+          "type": "link"
+        }
+      ],
+      "icon": "",
+      "id": 57,
+      "name": "QRCode",
+      "type": "folder"
+    },
+    {
+      "folder": [
+        {
+          "address": "https://zh.wikipedia.org/wiki/",
+          "contexts": [
+            "selection"
+          ],
+          "id": 48,
+          "name": "维基中文",
+          "type": "link"
+        },
+        {
+          "address": "http://s.weibo.com/weibo/",
+          "contexts": [
+            "selection"
+          ],
+          "id": 52,
+          "name": "微博",
+          "type": "link"
+        },
+        {
+          "address": "http://weixin.sogou.com/weixin?type=2&query=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 53,
+          "name": "微信",
+          "type": "link"
+        },
+        {
+          "address": "https://www.google.com/search?q=~$S$~+site:~$B$~",
+          "contexts": [
+            "selection",
+            "page",
+            "frame",
+            "tab"
+          ],
+          "id": 24,
+          "name": "谷歌站内搜索",
+          "prompt": true,
+          "type": "link"
+        },
+        {
+          "address": "https://www.baidu.com/s?wd=~$S$~+site:~$B$~",
+          "contexts": [
+            "selection",
+            "page",
+            "frame"
+          ],
+          "id": 54,
+          "name": "百度站内搜索",
+          "prompt": true,
+          "type": "link"
+        },
+        {
+          "address": "https://www.bing.com/search?q=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 12,
+          "name": "Bing",
+          "type": "link"
+        },
+        {
+          "address": "https://duckduckgo.com/html?q=",
+          "contexts": [
+            "selection"
+          ],
+          "id": 11,
+          "name": "DuckDuckGo",
+          "type": "link"
+        },
+        {
+          "folder": [
+            {
+              "address": "http://so.youku.com/search_video/q_",
+              "contexts": [
+                "selection"
+              ],
+              "id": 51,
+              "name": "优酷",
+              "type": "link"
+            }
+          ],
+          "icon": "",
+          "id": 66,
+          "name": "Videos",
+          "type": "folder"
+        },
+        {
+          "collapse": true,
+          "folder": [
+            {
+              "address": "https://www.reddit.com/search?q=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 16,
+              "name": "Reddit",
+              "type": "link"
+            },
+            {
+              "address": "https://www.google.com/search?q=site:instagram.com+",
+              "contexts": [
+                "selection"
+              ],
+              "id": 17,
+              "name": "Instagram on Google",
+              "type": "link"
+            },
+            {
+              "address": "https://www.google.com/search?q=site:imgur.com+",
+              "contexts": [
+                "selection"
+              ],
+              "id": 18,
+              "name": "Imgur on Google",
+              "type": "link"
+            },
+            {
+              "address": "https://mobile.twitter.com/search?q=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 15,
+              "name": "Twitter",
+              "type": "link"
+            },
+            {
+              "address": "https://www.facebook.com/public?query=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 14,
+              "name": "Facebook",
+              "type": "link"
+            }
+          ],
+          "icon": "",
+          "id": 43,
+          "name": "SNS",
+          "type": "folder"
+        },
+        {
+          "collapse": true,
+          "folder": [
+            {
+              "address": "https://en.wikipedia.org/wiki/",
+              "contexts": [
+                "selection"
+              ],
+              "id": 7,
+              "name": "Wikipedia",
+              "type": "link"
+            },
+            {
+              "address": "https://www.imdb.com/find?q=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 23,
+              "name": "Movies",
+              "type": "link"
+            },
+            {
+              "address": "https://www.thefreedictionary.com/",
+              "contexts": [
+                "selection"
+              ],
+              "id": 21,
+              "name": "Dictionary",
+              "type": "link"
+            }
+          ],
+          "icon": "",
+          "id": 49,
+          "name": "Knowledge",
+          "type": "folder"
+        },
+        {
+          "folder": [
+            {
+              "address": "https://maps.google.com/maps?q=",
+              "contexts": [
+                "selection"
+              ],
+              "icon": "https://www.google.com/images/branding/product/ico/maps_32dp.ico",
+              "id": 6,
+              "name": "Google Maps",
+              "type": "link"
+            },
+            {
+              "address": "https://www.bing.com/maps/?q=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 13,
+              "name": "Bing Maps",
+              "type": "link"
+            },
+            {
+              "address": "http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D",
+              "contexts": [
+                "selection"
+              ],
+              "id": 65,
+              "name": "百度地图",
+              "type": "link"
+            }
+          ],
+          "icon": "",
+          "id": 42,
+          "name": "Maps",
+          "type": "folder"
+        },
+        {
+          "collapse": true,
+          "folder": [
+            {
+              "address": "http://archive.fo/?run=1&url=~$U$~",
+              "contexts": [
+                "page",
+                "frame"
+              ],
+              "id": 63,
+              "name": "存档当前页",
+              "type": "link"
+            },
+            {
+              "address": "https://webcache.googleusercontent.com/search?q=cache:~$U$~",
+              "contexts": [
+                "page",
+                "frame"
+              ],
+              "id": 62,
+              "name": "Google快照",
+              "type": "link"
+            },
+            {
+              "address": "https://web.archive.org/web/*/~$U$~",
+              "contexts": [
+                "page",
+                "frame",
+                "tab"
+              ],
+              "icon": "https://web.archive.org/static/images/archive.ico",
+              "id": 30,
+              "name": "Internet Archive",
+              "type": "link"
+            }
+          ],
+          "icon": "",
+          "id": 50,
+          "name": "Others",
+          "type": "folder"
+        }
+      ],
+      "id": 9,
+      "name": "Others...",
+      "type": "folder"
+    },
+    {
+      "address": "",
+      "contexts": [
+        "selection"
+      ],
+      "id": 25,
+      "name": "Open selected link",
+      "type": "link"
+    },
+    {
+      "contexts": [
+        "selection",
+        "page",
+        "frame",
+        "tab"
+      ],
+      "id": 31,
+      "type": "separator"
+    },
+    {
+      "address": "书签栏\\Search",
+      "contexts": [
+        "selection"
+      ],
+      "id": 32,
+      "type": "bookmarks"
+    },
+    {
+      "folder": [
+        {
+          "address": "书签栏\\Context Menu",
+          "contexts": [
+            "page",
+            "frame",
+            "tab"
+          ],
+          "id": 34,
+          "type": "bookmarks"
+        }
+      ],
+      "id": 33,
+      "name": "Bookmarks",
+      "type": "folder"
+    },
+    {
+      "contexts": [
+        "selection"
+      ],
+      "id": 35,
+      "type": "separator"
+    },
+    {
+      "contexts": [
+        "selection"
+      ],
+      "id": 36,
+      "type": "options"
+    }
+  ],
+  "sMenuLabel": "Find '%s' using ...",
+  "bShowPopup": true,
+  "iPopupMaxColumns": 8,
+  "iPopupIconSize": 18,
+  "bClosePopupOnClick": true,
+  "bClosePopupOnScroll": true,
+  "bClosePopupOnTimeout": true,
+  "iPopupCloseTimeout": 4,
+  "bShowAddSearchPage": true,
+  "bCopySelection": false,
+  "sOpenSearchIn": "opnt",
+  "oPlaceHolder": {
+    "domain": "~$D$~",
+    "keywords": "~$S$~",
+    "subdomain": "~$B$~",
+    "url": "~$U$~"
+  }
+}

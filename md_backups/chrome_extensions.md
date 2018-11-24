@@ -38,6 +38,9 @@
   * [Github File Icons](https://chrome.google.com/webstore/detail/github-file-icons/kkokonbjllgdmblmbichgkkikhlcnekp) ★★★☆☆
   * [Octo Mate](https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf) 
   * [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa) 
+  * [Private Bookmarks](https://chrome.google.com/webstore/detail/private-bookmarks/cbheenbihjdgbmbogbefcgnpfoflhnhl) ★★☆☆☆
+  * [Hush - private bookmarking](https://chrome.google.com/webstore/detail/hush-private-bookmarking/hjmoaenjknbdehbiaeeijcppnljflkff) ★★★☆☆ 只能在隐身模式使用，分组收费
+  * [Secure Bookmarks](https://chrome.google.com/webstore/detail/secure-bookmarks/leocjgngiajhfiikjolfhcpiokgbinep) ★★★★☆可分组书签
 * version 2017-10 
   > 从创建到2017-10。
   >

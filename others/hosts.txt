@@ -35,5 +35,10 @@
 0.0.0.0       app.drivereasy.com
 149.202.196.40  dow0.drivereasy.com
 149.202.196.40  dow1.drivereasy.com
+0.0.0.0 www.revouninstaller.com
+127.0.0.1        www.google-analytics.com
+127.0.0.1        google-analytics.com
+127.0.0.1        ssl.google-analytics.com
+127.0.0.1        analytics.google.com
 
 

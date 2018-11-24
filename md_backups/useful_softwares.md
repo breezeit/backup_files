@@ -47,6 +47,7 @@
   * [Preme for Windows](http://www.premeforwindows.com/) 窗口控制
   * [Free File Sync](https://www.freefilesync.org/) 文件同步
   * [clipboardfusion](https://www.clipboardfusion.com/Download/) 专业粘贴增强
+  * [Clipboard Magic](http://www.cybermatrix.com/clipboard-magic.html) ★★★☆☆有顺序粘贴功能
 * version 2018-10
   * [WiseAutoShutdown](http://www.wisecleaner.com/wise-auto-shutdown.html) 自动关机重启等
   * [CLaunch](http://hp.vector.co.jp/authors/VA018351/claunch.html) 快速启动管理工具
