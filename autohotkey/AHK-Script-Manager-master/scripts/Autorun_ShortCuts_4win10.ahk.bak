@@ -2,7 +2,6 @@
 ;@content:some labels rewrite for functions；for win10
 #SingleInstance Force
 #NoEnv
-#NoTrayIcon
 
 ;全局
 global volStep := 5                   ;音量标量

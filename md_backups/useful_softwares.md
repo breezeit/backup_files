@@ -7,25 +7,25 @@
 
 * version 2018-11
   * [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ★★★☆☆系统监控，网速内存cpu占用
-  * [Dumeter]() ★★★☆☆专业监控网速
-  * [Xmeters]() ★★★☆☆系统监控，网速内存cpu占用
+  * [Dumeter] ★★★☆☆专业监控网速
+  * [Xmeters] ★★★☆☆系统监控，网速内存cpu占用
   * [Calibre](https://github.com/kovidgoyal/calibre) ★★★☆☆电子书籍管理
-  * [TeraCopy]()  复制加强
-  * [FastCopy]() 复制加强
-  * [Revo Uninstaller]() ★★★★★ 最强专业卸载
-  * [IObit Uninstaller]() ★★★★☆ 专业卸载
+  * [TeraCopy]  复制加强
+  * [FastCopy] 复制加强
+  * [Revo Uninstaller] ★★★★★ 最强专业卸载
+  * [IObit Uninstaller] ★★★★☆ 专业卸载
   * [Candy](https://github.com/aamii/Candy) ★★★★☆ 第二右键菜单
-  * [欧陆词典]() ★★★★☆ 词典工具
+  * [欧陆词典] ★★★★☆ 词典工具
   * [GoldenDict](https://github.com/goldendict/goldendict) ★★★★☆ 词典工具
-  * [Q-dir]() ★★★☆☆ 四窗口资源管理器
-  * [SolveigMM_Video_Splitter]() ★★★☆☆ 按帧视频剪辑
+  * [Q-dir] ★★★☆☆ 四窗口资源管理器
+  * [SolveigMM_Video_Splitter] ★★★☆☆ 按帧视频剪辑
   * [10AppsManager](https://www.thewindowsclub.com/10appsmanager-windows-10) ★☆☆☆☆win10自带app卸载安装
   * [排版助手(GIDOT TYPESETTER) ](https://www.gidot.net/typesetter/) 方便的排版
-  * [Inpaint]() 最强去水印
+  * [Inpaint] 最强去水印
   * [LastActivityView](http://www.nirsoft.net/utils/computer_activity_view.html) ★★☆☆☆ 查看电脑使用记录
   * [Zoomit](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit) ★★☆☆☆ 屏幕演示缩放标注等
   * [Similarity](https://www.similarityapp.com/) ★★☆☆☆ 视频图片查重(需要购买使用高级功能)
-  * [FileLocator]() 全文搜索
+  * [FileLocator] 全文搜索
   * [IrfanView](https://www.irfanview.com/) 看图工具
   * [DropIt](http://www.dropitproject.com/) 文件分类工具
   * [Shadowsocks](https://shadowsocks.org/en/download/clients.html) ★★★★★ 代理工具
@@ -48,6 +48,16 @@
   * [Free File Sync](https://www.freefilesync.org/) 文件同步
   * [clipboardfusion](https://www.clipboardfusion.com/Download/) 专业粘贴增强
   * [Clipboard Magic](http://www.cybermatrix.com/clipboard-magic.html) ★★★☆☆有顺序粘贴功能
+  * [Foldersizes](https://www.foldersizes.com/) ★★★★☆查看文件(夹)大小，多种展示方式
+  * [PicGo](https://github.com/Molunerfinn/PicGo/releases) 多种图床
+  * [电脑图像工具箱] 70多个图片处理编辑功能
+  * [iSlide] PPT的瑞士军刀
+  * [Folder Colorizer] 文件夹变色
+  * [KeePass](https://keepass.info/) ★★★★★多客户端密保，开源
+  * [万彩办公大师](http://www.wofficebox.com/) 
+  * [盘姬工具箱]
+  * [FileMenu Tools] 右键菜单
+  * [QTranslate] 划词翻译
 * version 2018-10
   * [WiseAutoShutdown](http://www.wisecleaner.com/wise-auto-shutdown.html) 自动关机重启等
   * [CLaunch](http://hp.vector.co.jp/authors/VA018351/claunch.html) 快速启动管理工具
@@ -55,13 +65,13 @@
   * [Bandizip](https://www.bandisoft.com/bandizip/) ★★★★☆ 压缩解压工具
   * [WGestures](http://www.yingdev.com/projects/wgestures) ★★★★☆ (开源)鼠标手势
   * [StrokesPlus](https://www.strokesplus.com/downloads/) ★★★★★ 鼠标手势
-  * [Lily]() ★★★★☆ 启动管理器
+  * [Lily] ★★★★☆ 启动管理器
 
 * version 2018-09
   * [Dr.Folder](http://www.pcclean.io/dr-folder/) ★★★★☆  文件夹图标修改美化工具
   * [Beyond compare](https://www.scootersoftware.com/download.php) ★★★☆☆ 文件比较
   * [Bandicam](https://www.bandicam.com) ★★★☆☆ 录屏工具
-  * [VMware]() ★★★☆☆ 虚拟机
+  * [VMware] ★★★☆☆ 虚拟机
   * [Yolo Mouse](https://pandateemo.github.io/YoloMouse/) ★★★★☆ 修改鼠标图标
 
 * version 2018-05
@@ -122,10 +132,10 @@
 - [Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases) ★★★★☆ 代理工具
 - [hidewnd](https://pan.baidu.com/s/1eSPEZDo) ★★★★☆ 隐藏窗口
 - [SocksCap64](https://www.sockscap64.com)★★★★☆ 代理工具
-- [Shadow Defender]()  影子卫士,系统保护还原
+- [Shadow Defender]  影子卫士,系统保护还原
 - [portableapps](https://portableapps.com/) 
 - [TeamViewer](https://www.teamviewer.com/zhCN/)  ★★★★☆ pc,mobile远程控制，个人免费
-- [Dism++]()  系统精简工具
+- [Dism++]  系统精简工具
 - [hiddex](http://dejavu.narod.ru/hiddex.html) ★★★☆☆ 窗口隐藏
 - [游戏加加](http://gamepp.com/) ★★★☆☆ 游戏时硬件信息显示
 - [speccy](https://www.ccleaner.com/speccy) ★★☆☆☆ 硬件信息显示
@@ -137,7 +147,7 @@
 - [xnview](http://www.xnview.com/en/xnview/#downloads) 看图工具
 - [stylepix](http://hornil.com/downloads/stylepix/) 
 - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) rename files
-- [EagleGet]()  下载工具
+- [EagleGet]  下载工具
 - [gimp](https://www.gimp.org/downloads/) 图片编辑
 
 ## 编程相关
@@ -154,7 +164,7 @@
   - [ScreenToGif](http://www.screentogif.com/?l=zh_cn) ★★★★☆ gif截图工具,像素优化
   - [picpick](http://ngwin.com/picpick) ★★★★☆ 截图等，全能的设计工具
   - [CamStudio](http://camstudio.org/) Free Desktop Recorder [CamStudio Portable](https://portableapps.com/apps/utilities/camstudio_portable)
-  - [Hypersnap]() 
+  - [Hypersnap] 
   - [LICEcap](https://www.cockos.com/licecap/) simple animated screen captures
 
 - ### 时间管理
@@ -177,13 +187,13 @@
 
 - [everything](https://www.voidtools.com/) ★★★★★ 文件搜索
 
-- [RenameMaster]() 重命名工具
+- [RenameMaster] 重命名工具
 
-- [PDFMate PDF Converter Free]() 将 PDF 文件快速转换为 Word、EPUB、Text、HTML、SWF 及各类图片格式等
+- [PDFMate PDF Converter Free] 将 PDF 文件快速转换为 Word、EPUB、Text、HTML、SWF 及各类图片格式等
 
-- [PhraseExpress]() 短语记录工具
+- [PhraseExpress] 短语记录工具
 
-- [FileLocator]() 免索引全文搜索工具
+- [FileLocator] 免索引全文搜索工具
 
 - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) ★★★★☆ 开源免费PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader
 
@@ -194,9 +204,9 @@
 ## 学习相关
 
 - [aboboo](http://www.aboboo.com/download/) 英语学习工具
-- [xmind]() ★★★★☆ 思维导图
-- [mindmanager]() ★★★★★ 思维导图
-- [Media_Study_Player]() 学习播放器
+- [xmind] ★★★★☆ 思维导图
+- [mindmanager] ★★★★★ 思维导图
+- [Media_Study_Player] 学习播放器
 - [Anki](https://apps.ankiweb.net/) ★★★★★ 卡片复习工具 [add-ons](https://ankiweb.net/shared/addons/) 
 - [深蓝英文字幕助手](https://github.com/studyzy/LearnEnglishBySubtitle/releases) 字幕单词学习处理
 
@@ -207,8 +217,8 @@
 
 ## 娱乐相关
 
-- [MKVToolNix]()
-- [格式工厂(Format Factory)]() 万能的多媒体格式转换软件
+- [MKVToolNix]
+- [格式工厂(Format Factory)] 万能的多媒体格式转换软件
 - [potplayer](http://potplayer.daum.net) ★★★★☆ 播放器
 - [小丸工具箱](http://maruko.appinn.me/) ★★★☆☆ 视频压制
 - [aegisub](http://www.aegisub.org/) 字幕制作工具
@@ -236,4 +246,6 @@
 - [烈火](http://hrtsea.cc/) ★★★★☆
 - [软矿](https://www.rkdot.com/) ★★★☆☆
 - [大眼仔](http://www.dayanzai.me) ★★★☆☆
+- [Awesome Windows](https://github.com/Awesome-Windows) 软件和cmd命令
+- [Windows Apps That Amaze Us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/) 中文版推荐
 

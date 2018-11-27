@@ -41,6 +41,8 @@
   * [Private Bookmarks](https://chrome.google.com/webstore/detail/private-bookmarks/cbheenbihjdgbmbogbefcgnpfoflhnhl) ★★☆☆☆
   * [Hush - private bookmarking](https://chrome.google.com/webstore/detail/hush-private-bookmarking/hjmoaenjknbdehbiaeeijcppnljflkff) ★★★☆☆ 只能在隐身模式使用，分组收费
   * [Secure Bookmarks](https://chrome.google.com/webstore/detail/secure-bookmarks/leocjgngiajhfiikjolfhcpiokgbinep) ★★★★☆可分组书签
+  * [Url in title](https://chrome.google.com/webstore/detail/url-in-title/ignpacbgnbnkaiooknalneoeladjnfgb/related) ★★☆☆☆ 配合keepass用
+  * [chromeIPass](https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae) ★★☆☆☆ 配合keepass用
 * version 2017-10 
   > 从创建到2017-10。
   >
@@ -247,4 +249,4 @@
 * [Auto Text Expander for Google Chrome™](https://chrome.google.com/webstore/detail/auto-text-expander-for-go/iibninhmiggehlcdolcilmhacighjamp?utm_source=chrome-app-launcher-info-dialog) Create custom keyboard shortcuts to expand and replace text as you type!
 * [ezLinkPreview](https://chrome.google.com/webstore/detail/ezlinkpreview/nnkcfbiefgdaceeplickkkmifpicbpcc?utm_source=chrome-app-launcher-info-dialog) Preview links in a draggable, resizable overlay/popup, or split screen/view mode. Zoom images. Search highlighted text.
 * [新浪微博图床](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf?utm_source=chrome-app-launcher-info-dialog) 简单好用的新浪微博图床,支持选择/拖拽/粘贴上传图片,并生成图片地址,HTML,UBB和Markdown等格式,支持浏览和删除历史记录
-* ​
+* 

@@ -1,7 +1,7 @@
 {
-  "ua": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36",
   "yawf": "Yet Another Weibo Filter",
-  "ver": "3.7.488",
+  "ver": "3.7.489",
   "gm": "Tampermonkey4.7",
   "conf": {
     "weibo.tool.load_weibo_by_group.group": {
@@ -48,7 +48,6 @@
       "救治",
       "抢救",
       "结石",
-      "子宫",
       "鼻支",
       "胎盘",
       "丢失",
@@ -61,13 +60,17 @@
       "医院",
       "毒粮",
       "尿",
-      "捐",
       "作画",
       "杀人",
       "死",
       "孕妇",
       "孕妈",
-      "遗体"
+      "遗体",
+      "绦虫",
+      "微博任务红包",
+      "去世",
+      "送别",
+      "命案"
     ],
     "weibo.filters.keyword.foldlist": [
       "领养",
@@ -213,7 +216,8 @@
     "weibo.filters.original.whitelist": [],
     "weibo.filters.original.blacklist": [
       "2146965345",
-      "3229125510"
+      "3229125510",
+      "3217179555"
     ],
     "weibo.filters.original.foldlist": [],
     "weibo.filters.mention.whitelist": [],
@@ -313,6 +317,10 @@
     "weibo.layoutHideIconWedding": true,
     "weibo.layoutHideIconPanda": true,
     "weibo.layoutHideIconOther": true,
+    "weibo.layoutHideFollowSingle": false,
+    "weibo.layoutHideFollowAtMe": false,
+    "weibo.layoutHideFollowDiscover": false,
+    "weibo.layoutHideFollowVideo": false,
     "weibo.layoutHideNavLogoImg": false,
     "weibo.layoutHideNavMain": false,
     "weibo.layoutHideNavTV": false,
@@ -437,7 +445,11 @@
     "weibo.tool.cardButton": false,
     "weibo.tool.viewOriginal.open": "image",
     "weibo.tool.viewOriginal.direct": false,
+    "weibo.tool.viewOriginal.method": "default",
+    "weibo.tool.viewOriginal.url": "default",
     "weibo.tool.viewOriginal": true,
+    "weibo.tool.downloadImage.direct": false,
+    "weibo.tool.downloadImage": false,
     "weibo.tool.noTagDialog": false,
     "weibo.tool.pause_animated_image": false,
     "weibo.tool.disable_video_menu": true,
@@ -541,23 +553,18 @@
     "weibo.tool.use_context_menu_creator": true,
     "weibo.tool.disable_auto_play": true,
     "weibo.tool.disable_auto_play.pause": true,
-    "weibo.layoutHideFollowSingle": false,
-    "weibo.layoutHideFollowAtMe": false,
-    "weibo.layoutHideFollowDiscover": false,
-    "weibo.layoutHideFollowVideo": false,
-    "weibo.tool.viewOriginal.method": "default",
-    "weibo.tool.viewOriginal.url": "default",
-    "weibo.tool.downloadImage.direct": false,
-    "weibo.tool.downloadImage": false,
-    "weibo.other.user_like": false,
-    "weibo.layoutHideFollowRecommend": false,
     "weibo.tool.load_weibo_by_multi_group.whisper": false,
-    "weibo.layoutHideIconWenda": false,
+    "weibo.other.user_like": false,
+    "weibo.layoutHideIconWenda": true,
     "weibo.layoutHideFollowWhisper": false,
-    "weibo.layoutHideIconWorldCup": true,
+    "weibo.layoutHideFollowRecommend": false,
     "weibo.layoutHideOtherRelatedVideo": false,
     "weibo.tool.disable_video_click_pop": false,
     "weibo.tool.no_pop_but_full_screen": false,
-    "weibo.tool.video_no_auto_next": false
+    "weibo.tool.video_no_auto_next": false,
+    "weibo.layoutHideIconWorldCup": true,
+    "weibo.original.by_follower.enabled": false,
+    "weibo.original.by_follower.fans": 10,
+    "weibo.original.by_follower": []
   }
 }

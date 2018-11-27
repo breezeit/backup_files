@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of wokaiub from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="tech" title="tech">
+      <outline text="Leo" title="Leo" type="rss" xmlUrl="http://leochanit.lofter.com/rss" htmlUrl="http://leochanit.lofter.com/"/>
+      <outline text="Damonare的个人博客" title="Damonare的个人博客" type="rss" xmlUrl="http://damonare.github.io/atom.xml" htmlUrl="http://damonare.github.io/"/>
+      <outline text="张鑫旭-鑫空间-鑫生活" title="张鑫旭-鑫空间-鑫生活" type="rss" xmlUrl="http://www.zhangxinxu.com/wordpress/feed/" htmlUrl="http://www.zhangxinxu.com/wordpress"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+    </outline>
+    <outline text="yule" title="yule">
+      <outline text="好人卡" title="好人卡" type="rss" xmlUrl="https://www.haorenka.cc/feed/" htmlUrl="https://www.haorenka.cc/"/>
+      <outline text="Path of Exile News" title="Path of Exile News" type="rss" xmlUrl="https://www.pathofexile.com/news/rss" htmlUrl="http://www.pathofexile.com/"/>
+    </outline>
+    <outline text="app" title="app">
+      <outline text="易破解" title="易破解" type="rss" xmlUrl="http://www.yipojie.cn/feed" htmlUrl="http://www.yipojie.cn/"/>
+      <outline text="扩展迷Extfans - 简书" title="扩展迷Extfans - 简书" type="rss" xmlUrl="https://rsshub.app/jianshu/user/fc8848c65d96" htmlUrl="https://www.jianshu.com/u/fc8848c65d96"/>
+      <outline text="電腦玩物" title="電腦玩物" type="rss" xmlUrl="https://www.playpcesor.com/feeds/posts/default" htmlUrl="http://www.playpcesor.com/"/>
+      <outline text="软矿" title="软矿" type="rss" xmlUrl="https://www.rkdot.com/feed/" htmlUrl="https://www.rkdot.com/"/>
+      <outline text="重灌狂人" title="重灌狂人" type="rss" xmlUrl="https://feeds.feedburner.com/briian" htmlUrl="https://briian.com/"/>
+      <outline text="精品绿色便携软件" title="精品绿色便携软件" type="rss" xmlUrl="https://www.portablesoft.org/feed/" htmlUrl="https://www.portablesoft.org/"/>
+      <outline text="免費資源網路社群" title="免費資源網路社群" type="rss" xmlUrl="https://feeds.feedburner.com/freegroup/" htmlUrl="https://free.com.tw/"/>
+      <outline text="软件缘" title="软件缘" type="rss" xmlUrl="https://www.appcgn.com/feed" htmlUrl="https://www.appcgn.com/"/>
+      <outline text="大眼仔旭" title="大眼仔旭" type="rss" xmlUrl="http://www.dayanzai.me/feed" htmlUrl="http://www.dayanzai.me/"/>
+      <outline text="最美应用" title="最美应用" type="rss" xmlUrl="http://zuimeia.com/feed/" htmlUrl="http://zuimeia.com/?utm_source=rss&amp;utm_campaign=rss&amp;utm_medium=toutiao"/>
+      <outline text="奔跑中的奶酪" title="奔跑中的奶酪" type="rss" xmlUrl="https://www.runningcheese.com/feed" htmlUrl="https://www.runningcheese.com/"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="http://feed.iplaysoft.com/" htmlUrl="http://www.iplaysoft.com/"/>
+      <outline text="小众软件" title="小众软件" type="rss" xmlUrl="http://feed.appinn.com/" htmlUrl="http://www.appinn.com/"/>
+      <outline text="心海e站" title="心海e站" type="rss" xmlUrl="http://hrtsea.com/feed" htmlUrl="http://hrtsea.com/"/>
+      <outline text="反斗软件" title="反斗软件" type="rss" xmlUrl="http://www.apprcn.com/feed" htmlUrl="http://www.apprcn.com/"/>
+      <outline text="懒得勤快的博客_全栈开发者_互联网分享精神" title="懒得勤快的博客_全栈开发者_互联网分享精神" type="rss" xmlUrl="https://masuit.com/rss" htmlUrl="https://masuit.com/rss"/>
+    </outline>
+    <outline text="browser" title="browser">
+      <outline text="卡饭 - Chrome" title="卡饭 - Chrome" type="rss" xmlUrl="http://bbs.kafan.cn/forum.php?mod=rss&amp;fid=214&amp;auth=0" htmlUrl="http://bbs.kafan.cn/forum-214-1.html"/>
+      <outline text="卡饭 - Firefox" title="卡饭 - Firefox" type="rss" xmlUrl="http://bbs.kafan.cn/forum.php?mod=rss&amp;fid=215&amp;auth=0" htmlUrl="http://bbs.kafan.cn/forum-215-1.html"/>
+    </outline>
+    <outline text="blog" title="blog">
+      <outline text="老黄老巢" title="老黄老巢" type="rss" xmlUrl="https://www.laohuang.net/feed/" htmlUrl="https://www.laohuang.net/"/>
+      <outline text="GFW BLOG（功夫网与翻墙）" title="GFW BLOG（功夫网与翻墙）" type="rss" xmlUrl="http://www.chinagfw.org/feeds/posts/default" htmlUrl="http://www.chinagfw.org/"/>
+      <outline text="月光博客" title="月光博客" type="rss" xmlUrl="http://feed.williamlong.info/" htmlUrl="http://www.williamlong.info/"/>
+      <outline text="编程随想的博客" title="编程随想的博客" type="rss" xmlUrl="https://program-think.blogspot.com/feeds/posts/default" htmlUrl="http://program-think.blogspot.com/"/>
+    </outline>
+  </body>
+</opml>
