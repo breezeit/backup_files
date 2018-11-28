@@ -58,6 +58,7 @@
   * [盘姬工具箱]
   * [FileMenu Tools] 右键菜单
   * [QTranslate] 划词翻译
+  * [Path Copy Copy](https://github.com/clechasseur/pathcopycopy) ★★★☆☆ 路径复制增强
 * version 2018-10
   * [WiseAutoShutdown](http://www.wisecleaner.com/wise-auto-shutdown.html) 自动关机重启等
   * [CLaunch](http://hp.vector.co.jp/authors/VA018351/claunch.html) 快速启动管理工具

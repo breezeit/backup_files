@@ -20,3 +20,10 @@
 		return
 	}
 #IfWinActive
+
+;==================测试,重载热键f5，放最后
+#IfWinActive ahk_exe SciTE.exe
+f5::
+Reload
+Return
+#IfWinActive

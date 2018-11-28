@@ -43,6 +43,9 @@
   * [Secure Bookmarks](https://chrome.google.com/webstore/detail/secure-bookmarks/leocjgngiajhfiikjolfhcpiokgbinep) ★★★★☆可分组书签
   * [Url in title](https://chrome.google.com/webstore/detail/url-in-title/ignpacbgnbnkaiooknalneoeladjnfgb/related) ★★☆☆☆ 配合keepass用
   * [chromeIPass](https://chrome.google.com/webstore/detail/chromeipass/ompiailgknfdndiefoaoiligalphfdae) ★★☆☆☆ 配合keepass用
+  * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=zh-CN) ★★★★☆ 同时使用多个帐户浏览网站,收费有更强功能
+  * [GoFW](https://github.com/xmcp/GoFW) 境外库重定向到中科大等国内cdn
+  * [最近下载](https://chrome.google.com/webstore/detail/%E6%9C%80%E8%BF%91%E4%B8%8B%E8%BD%BD/abmbeknhkchhaalbjkbehhfbibcmogbe) 下载管理增强版，可以分类查看文件，同时可以分享到手机（仅支持windows 10，需下载UWP版我的电脑）。
 * version 2017-10 
   > 从创建到2017-10。
   >

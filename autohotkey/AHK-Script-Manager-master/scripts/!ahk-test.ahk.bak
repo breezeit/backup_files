@@ -6,7 +6,8 @@ sex_path=C:\Users\Administrator\Downloads\images\s
 temp_path=D:\temp
 !c::
 	inputBox,command,enter command															
-	if ErrorLevel		
+	if ErrorLevel
+		
     	return	
     else
 		if (command=="dd")			

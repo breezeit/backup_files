@@ -27,10 +27,7 @@ hotkey,#e,myComputer                  ;打开我的电脑
 hotkey,#c,calculator                  ;打开计算器
 return
 ;====================================
-#IfWinActive ahk_exe SciTE.exe
-f5::
-Reload
-Return
+
 ;====================================
 helpToolTip: ;脚本内容帮助显示
     Tooltip,
@@ -178,6 +175,7 @@ return
 ; 	WinMinimize 
 ; Return  
 ;==========================
+
 
 
 
