@@ -5,6 +5,11 @@
 更新记录
 
 
+
+* version 2018-12
+  * [Alt-Tab Terminator](https://www.ntwind.com/software/alttabter.html)  ★★★☆☆ alt-tab增强(可另外定义快捷键，不冲突)
+  * [Seer](https://sourceforge.net/projects/ccseer/) 免费版停止更新在0.8.1，收费版更强
+  * [uTools](https://u.tools/) 类似Listary
 * version 2018-11
   * [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ★★★☆☆系统监控，网速内存cpu占用
   * [Dumeter] ★★★☆☆专业监控网速
@@ -59,6 +64,8 @@
   * [FileMenu Tools] 右键菜单
   * [QTranslate] 划词翻译
   * [Path Copy Copy](https://github.com/clechasseur/pathcopycopy) ★★★☆☆ 路径复制增强
+  * [Knowte](http://www.digimezzo.com/software/knowte-2/) ★★☆☆☆ win10笔记管理工具，很简洁
+  * [QuickLook](https://github.com/QL-Win/QuickLook) ★★★☆☆ 快速预览文件
 * version 2018-10
   * [WiseAutoShutdown](http://www.wisecleaner.com/wise-auto-shutdown.html) 自动关机重启等
   * [CLaunch](http://hp.vector.co.jp/authors/VA018351/claunch.html) 快速启动管理工具

@@ -9,6 +9,8 @@ prompt =
 说明：
 输入特定缩写执行特定命令
 )
+script_path = C:\backup_files\autohotkey\AHK-Script-Manager-master\scripts
+;===============
 !c::
 	inputBox,command,快捷命令输入,%prompt%,,300,150,enter command															
 	if ErrorLevel		
@@ -26,30 +28,10 @@ prompt =
 			run %se_path%
 		else if (command=="temp")
 			run %temp_path%
+		else if (command=="script")
+			run %script_path%
 	return
 return
-
-;====================================
-helpToolTip: ;脚本内容帮助显示
-    Tooltip,
-    (
-    win-F1:启动AHK在线中文帮助
-    win-ctrl-up:音量提升5
-    ) ;()表示多行文本
-    toolTipTimer(6000)
-return
-;=======================================
-;tooltip定时器
-removeToolTip(){
-    SetTimer, removeToolTip, Off
-    ToolTip
-}
-toolTipTimer(time){     ;time:毫秒数字
-    #Persistent
-    SetTimer,removeToolTip,%time%
-}
-
-
 
 ;==================测试,重载热键f5，放最后	
 #IfWinActive ahk_exe SciTE.exe

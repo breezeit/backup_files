@@ -1,14 +1,18 @@
 ﻿
-
-d_down_path=D:\Downloads    ;;; autohotkey 可以事先定义一些变量
-npp_path=C:\software2018\notepadplusplus\notepad++.exe
-sex_path=C:\Users\Administrator\Downloads\images\s
-temp_path=D:\temp
+;定义命令
+d_down_path = D:\Downloads    ;;; autohotkey 可以事先定义一些变量
+npp_path = C:\software2018\notepadplusplus\notepad++.exe
+se_path = C:\Users\Administrator\Downloads\images\s
+temp_path = D:\temp
+prompt = 
+(
+说明：
+输入特定缩写执行特定命令
+)
 !c::
-	inputBox,command,enter command															
-	if ErrorLevel
-		
-    	return	
+	inputBox,command,快捷命令输入,%prompt%,,300,150,enter command															
+	if ErrorLevel		
+		return
     else
 		if (command=="dd")			
 			run %d_down_path%   ;;;打开指定文件夹 用两个百分号%%包围说明这是一个变量
@@ -18,11 +22,22 @@ temp_path=D:\temp
 			run %command%:/   ;;快速打开这些盘
 		else if (command=="npp")
 			run %npp_path%     ;;快速打开npp
-		else if (command=="sex")
-			run %sex_path%
+		else if (command=="se")
+			run %se_path%
 		else if (command=="temp")
 			run %temp_path%
 	return
+return
+
+!+c::
+	MouseGetPos, mouseX, mouseY
+	; 获得鼠标所在坐标，把鼠标的 X 坐标赋值给变量 mouseX ，同理 mouseY
+	PixelGetColor, color, %mouseX%, %mouseY%, RGB
+	; 调用 PixelGetColor 函数，获得鼠标所在坐标的 RGB 值，并赋值给 color
+	StringRight color,color,6
+	; 截取 color（第二个 color）右边的6个字符，因为获得的值是这样的：#RRGGBB，一般我们只需要 RRGGBB 部分。把截取到的值再赋给 color（第一个 color）。
+	clipboard = %color%
+	; 把 color 的值发送到剪贴板
 return
 
 ;====================================

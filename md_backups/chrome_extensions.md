@@ -1,5 +1,12 @@
 # chrome extensions 扩展
 ★★★★★ ★★★★☆ ★★★☆☆ ★★☆☆☆ 
+
+* version 2018-12
+
+  *  [CryptoData](https://chrome.google.com/webstore/detail/cryptodata/kddnbgkpmoimjnndiafmlacadfghkjjh) 文本加密解密
+  *  [Worldwide Radio](https://chrome.google.com/webstore/detail/worldwide-radio/ofncbjjbfchlegacifnndkkbdoaedcof) ★★☆☆☆ 全世界各地的电台(国内很少几个电台)
+  *  [Starmarks Bookmark Manager](https://chrome.google.com/webstore/detail/starmarks-bookmark-manage/ohhpijmpbgndokpodomgiclmflhbkihb) ★★★☆☆ 有stars,tags,note，还可以各种排序，collection
+  *  [破解右键锁](https://chrome.google.com/webstore/detail/enable-right-click/gpeddepmnbmkjfnhifmggnjdggibjjkf) ★★★☆☆ 破解右键，禁用js
 * version 2018-11
 
   * [Goomarks (Browser for Google Bookmarks)](https://chrome.google.com/webstore/detail/goomarks-browser-for-goog/oknllbfkmapccinochelgmcdjhlgfnik) ★★★☆☆ 谷歌云书签(带tag)
@@ -46,6 +53,14 @@
   * [SessionBox](https://chrome.google.com/webstore/detail/sessionbox-free-multi-log/megbklhjamjbcafknkgmokldgolkdfig?hl=zh-CN) ★★★★☆ 同时使用多个帐户浏览网站,收费有更强功能
   * [GoFW](https://github.com/xmcp/GoFW) 境外库重定向到中科大等国内cdn
   * [最近下载](https://chrome.google.com/webstore/detail/%E6%9C%80%E8%BF%91%E4%B8%8B%E8%BD%BD/abmbeknhkchhaalbjkbehhfbibcmogbe) 下载管理增强版，可以分类查看文件，同时可以分享到手机（仅支持windows 10，需下载UWP版我的电脑）。
+  * [Header Editor](https://chrome.google.com/webstore/detail/header-editor/eningockdidmgiojffjmkdblpjocbhgh?hl=zh-CN) ★★★☆☆ 修改头信息
+  * [Auto Copy](https://chrome.google.com/webstore/detail/auto-copy/bijpdibkloghppkbmhcklkogpjaenfkg?hl=zh-CN)  ★★★☆☆  自动复制，可以定制黑名单等
+  * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp/related) 隐私管理  ★★★★☆
+  * [xStyle](https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj) ★★★☆☆样式管理
+  * [暴力猴](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) ★★★☆☆ js脚本管理
+  * [网页截图:注释&录屏](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) ★★★☆☆ 可结合使用 Google 云端硬盘
+  * [云盘万能钥匙](https://chrome.google.com/webstore/detail/%E4%BA%91%E7%9B%98%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99/anlllmnpjodopgbkbpnghnjlelnogfjc?hl=zh-CN) 百度网盘共享
+  * [Hover Zoom+](https://chrome.google.com/webstore/detail/hover-zoom%2B/pccckmaobkjjboncdfnnofkonhgpceea?hl=zh-CN) 图片悬浮放大
 * version 2017-10 
   > 从创建到2017-10。
   >

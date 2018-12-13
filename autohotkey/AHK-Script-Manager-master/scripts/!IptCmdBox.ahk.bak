@@ -29,28 +29,6 @@ prompt =
 	return
 return
 
-;====================================
-helpToolTip: ;脚本内容帮助显示
-    Tooltip,
-    (
-    win-F1:启动AHK在线中文帮助
-    win-ctrl-up:音量提升5
-    ) ;()表示多行文本
-    toolTipTimer(6000)
-return
-;=======================================
-;tooltip定时器
-removeToolTip(){
-    SetTimer, removeToolTip, Off
-    ToolTip
-}
-toolTipTimer(time){     ;time:毫秒数字
-    #Persistent
-    SetTimer,removeToolTip,%time%
-}
-
-
-
 ;==================测试,重载热键f5，放最后	
 #IfWinActive ahk_exe SciTE.exe
 f5::

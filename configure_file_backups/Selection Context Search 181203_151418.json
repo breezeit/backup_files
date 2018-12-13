@@ -41,6 +41,20 @@
           "type": "link"
         },
         {
+          "address": "https://www.google.com/search?q=",
+          "contexts": [
+            "selection",
+            "page",
+            "frame",
+            "tab"
+          ],
+          "id": 3,
+          "name": "Google",
+          "popup": true,
+          "prompt": true,
+          "type": "link"
+        },
+        {
           "address": "https://www.baidu.com/s?wd=",
           "contexts": [
             "selection"
@@ -67,23 +81,18 @@
           ],
           "icon": "https://wx1.sinaimg.cn/mw690/9e146487gy1fxelrzz36nj202o02o741.jpg",
           "id": 5,
-          "name": "Google Images",
+          "name": "Google图片",
           "popup": true,
           "type": "link"
         },
         {
-          "address": "https://www.google.com/search?q=",
+          "type": "link",
+          "name": "百度图片",
+          "address": "http://image.baidu.com/search/index?tn=baiduimage&fm=result&ie=utf-8&word=",
           "contexts": [
-            "selection",
-            "page",
-            "frame",
-            "tab"
+            "selection"
           ],
-          "id": 3,
-          "name": "Google",
-          "popup": true,
-          "prompt": true,
-          "type": "link"
+          "id": 71
         }
       ],
       "icon": "",
@@ -145,7 +154,6 @@
           "icon": "https://favicon.yandex.net/favicon/crxextractor.com",
           "id": 67,
           "name": "ChromeExtension",
-          "popup": true,
           "type": "link"
         },
         {
@@ -238,12 +246,65 @@
     {
       "folder": [
         {
+          "folder": [
+            {
+              "address": "https://search.bilibili.com/all?keyword=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 68,
+              "name": "Bilibili",
+              "type": "link"
+            },
+            {
+              "type": "link",
+              "name": "YoutubeInWeek",
+              "address": "https://www.youtube.com/results?sp=EgQIAxAB&search_query=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 69
+            },
+            {
+              "type": "link",
+              "name": "YoutubeInYear",
+              "address": "https://www.youtube.com/results?sp=EgQIBRAB&search_query=",
+              "contexts": [
+                "selection"
+              ],
+              "id": 70
+            },
+            {
+              "address": "http://so.youku.com/search_video/q_",
+              "contexts": [
+                "selection"
+              ],
+              "id": 51,
+              "name": "优酷",
+              "type": "link"
+            }
+          ],
+          "icon": "",
+          "id": 66,
+          "name": "Videos",
+          "type": "folder"
+        },
+        {
           "address": "https://zh.wikipedia.org/wiki/",
           "contexts": [
             "selection"
           ],
           "id": 48,
           "name": "维基中文",
+          "type": "link"
+        },
+        {
+          "address": "https://en.wikipedia.org/wiki/",
+          "contexts": [
+            "selection"
+          ],
+          "id": 7,
+          "name": "Wikipedia",
           "type": "link"
         },
         {
@@ -310,24 +371,6 @@
         {
           "folder": [
             {
-              "address": "http://so.youku.com/search_video/q_",
-              "contexts": [
-                "selection"
-              ],
-              "id": 51,
-              "name": "优酷",
-              "type": "link"
-            }
-          ],
-          "icon": "",
-          "id": 66,
-          "name": "Videos",
-          "type": "folder"
-        },
-        {
-          "collapse": true,
-          "folder": [
-            {
               "address": "https://www.reddit.com/search?q=",
               "contexts": [
                 "selection"
@@ -379,17 +422,7 @@
           "type": "folder"
         },
         {
-          "collapse": true,
           "folder": [
-            {
-              "address": "https://en.wikipedia.org/wiki/",
-              "contexts": [
-                "selection"
-              ],
-              "id": 7,
-              "name": "Wikipedia",
-              "type": "link"
-            },
             {
               "address": "https://www.imdb.com/find?q=",
               "contexts": [
@@ -451,7 +484,6 @@
           "type": "folder"
         },
         {
-          "collapse": true,
           "folder": [
             {
               "address": "http://archive.fo/?run=1&url=~$U$~",
@@ -556,7 +588,7 @@
     }
   ],
   "sMenuLabel": "Find '%s' using ...",
-  "bShowPopup": true,
+  "bShowPopup": false,
   "iPopupMaxColumns": 8,
   "iPopupIconSize": 18,
   "bClosePopupOnClick": true,

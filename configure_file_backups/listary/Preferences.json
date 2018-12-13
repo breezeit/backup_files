@@ -1,0 +1,304 @@
+{
+  "DiskSearch": {
+    "FolderPriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "C:\\software2018",
+            "Priority": 1
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "C:\\backup_files"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "C:\\ebooks"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "C:\\Users\\Administrator\\OneDrive",
+            "Priority": 1
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "C:\\ebooks",
+            "Priority": 1
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "C:\\games"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "E:\\UsefulSoftwares"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "E:\\Program Files (x86)"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "E:\\Program Files"
+          }
+        }
+      ],
+      "Updates": []
+    },
+    "FileNamePriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "AppConfigs": {
+    "TypeConfigs": {
+      "WindowsExplorer": {},
+      "FileDialog": {},
+      "DirectoryOpus": {},
+      "TotalCommander": {}
+    },
+    "PathConfigs": {}
+  },
+  "Menus": {
+    "Favorites": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "Commands": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "WebSearch": {
+    "Items": {
+      "Deletions": [
+        "610a486d-0028-4739-8eb6-50f5247c918f",
+        "2db0261a-1114-4c8d-8cc8-62a89aeb1a35",
+        "455e1dc4-5e38-4b00-85da-d0bf46c68f4f",
+        "1744aa0c-751a-495f-aac5-6910e7406229"
+      ],
+      "Moves": [],
+      "Insertions": [
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "ytb7",
+            "Url": "https://www.youtube.com/results?search_query={query}&sp=EgQIAxAB",
+            "Title": "YoutubeInWeek",
+            "SuggestionProvider": "Custom",
+            "SuggestionUrl": "http://suggestqueries.google.com/complete/search?client=youtube&ds=yt&client=firefox&q={query}"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "ytb1",
+            "Url": "https://www.youtube.com/results?search_query={query}&sp=EgQIBRAB",
+            "Title": "YoutubeInYear",
+            "SuggestionProvider": "Custom",
+            "SuggestionUrl": "http://suggestqueries.google.com/complete/search?client=youtube&ds=yt&client=firefox&q={query}"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "zh",
+            "Url": "https://www.zhihu.com/search?type=content&q={query}",
+            "Title": "知乎",
+            "SuggestionProvider": "Google"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "gc",
+            "Url": "https://www.google.com/search?lr=lang_zh-CN%7Clang_zh-TW&q={query}",
+            "Title": "Google CN",
+            "SuggestionProvider": "Google"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "gi",
+            "Url": "https://www.google.com/images?q={query}",
+            "Title": "Google Image",
+            "SuggestionProvider": "Google"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "wkc",
+            "Url": "https://zh.wikipedia.org/wiki/{query}",
+            "Title": "维基中文",
+            "SuggestionProvider": "Custom",
+            "SuggestionUrl": "http://zh.wikipedia.org/w/api.php?action=opensearch&search={query}&namespace=0&format=json"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "wx",
+            "Url": "http://weixin.sogou.com/weixin?type=2&query={query}",
+            "Title": "微信",
+            "SuggestionProvider": "Google"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "bl",
+            "Url": "https://search.bilibili.com/all?keyword={query}",
+            "Title": "Bilibili",
+            "SuggestionProvider": "Google"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "bi",
+            "Url": "http://image.baidu.com/search/index?tn=baiduimage&fm=result&ie=utf-8&word={query}",
+            "Title": "百度图片",
+            "SuggestionProvider": "Baidu"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "js",
+            "Url": "http://www.iciba.com/{query}",
+            "Title": "金山词霸"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "yd",
+            "Url": "http://www.youdao.com/w/{query}",
+            "Title": "有道词典"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "yc",
+            "Url": "http://www.youdict.com/ciyuan/s/{query}",
+            "Title": "优词"
+          }
+        },
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Keyword": "bm",
+            "Url": "http://map.baidu.com/?newmap=1&ie=utf-8&s=s%26wd%3D{query}",
+            "Title": "百度地图",
+            "SuggestionProvider": "Baidu"
+          }
+        }
+      ],
+      "Updates": [
+        {
+          "Id": "c78295a6-2cf8-4569-bf42-33f1e5c030d7",
+          "UpdatedProperties": {
+            "Keyword": "wk"
+          }
+        },
+        {
+          "Id": "dd896809-2af4-405b-834f-45816615e3e3",
+          "UpdatedProperties": {
+            "Keyword": "bn"
+          }
+        },
+        {
+          "Id": "5ac62036-62aa-49d3-866b-d041bc7b1b76",
+          "UpdatedProperties": {
+            "Keyword": "gm"
+          }
+        },
+        {
+          "Id": "4ed886fb-1df0-4fd0-abc1-810fc180e647",
+          "UpdatedProperties": {
+            "Keyword": "twt"
+          }
+        },
+        {
+          "Id": "5014b42a-884d-40d3-835d-69079dd9fc51",
+          "UpdatedProperties": {
+            "Keyword": "ytb"
+          }
+        },
+        {
+          "Id": "95147e79-6274-4127-98bb-09d9ffa2a39a",
+          "UpdatedProperties": {
+            "Enabled": false
+          }
+        }
+      ]
+    }
+  },
+  "Actions": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "Settings": {},
+  "Extensions": {
+    "Extensions": {
+      "1a63ea9d-bf25-431f-96e3-17b80027efab": {},
+      "f86966a8-24a9-46a0-baea-11e861a5c2c3": {}
+    }
+  }
+}
